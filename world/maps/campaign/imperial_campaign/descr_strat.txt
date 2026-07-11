@@ -5,8 +5,7 @@ playable
 	romans_julii
 	romans_brutii
 	romans_scipii
-end
-unlockable
+	
 	egypt
 	seleucid
 	carthage
@@ -15,8 +14,7 @@ unlockable
 	germans
 	britons
 	greek_cities
-end
-nonplayable
+	
 	romans_senate
 	macedon
 	pontus
@@ -27,6 +25,10 @@ nonplayable
 	spain
 	thrace
 	slave
+end
+unlockable
+end
+nonplayable
 end
 
 
