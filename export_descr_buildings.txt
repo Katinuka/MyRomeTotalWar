@@ -1463,6 +1463,7 @@ building academic
         {
             capability
             {
+				law_bonus bonus 2
             }
             construction  3 
             cost  1600 
@@ -1476,6 +1477,7 @@ building academic
         {
             capability
             {
+				law_bonus bonus 3
             }
             construction  5 
             cost  3200 
@@ -1489,6 +1491,7 @@ building academic
         {
             capability
             {
+				law_bonus bonus 4
             }
             construction  6 
             cost  6400 
