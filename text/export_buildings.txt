@@ -1098,10 +1098,10 @@ Latifundia are enormous (and efficient) estates that are created by legally conf
 {paved_roads_desc_short}	WARNING! This baseline short description should never appear on screen!
 
 {paved_roads_barbarian_desc}
-WARNING! This text should never appear on screen!
+These improved roads allow armies to assemble and then meet approaching enemies swiftly. Paved roads are built for military use first and foremost. They are carefully surveyed and constructed, often including cuttings and extensive causeways. They will not degenerate into muddy rivers in winter or dusty tracks in summer, no matter how hard the usage. 
 
 {paved_roads_barbarian_desc_short}
-WARNING! This text should never appear on screen!
+These improved roads allow armies to assemble swiftly and then march great distances to meet approaching enemies.
 
 {paved_roads_carthage_desc}
 These improved roads allow armies to assemble and then meet approaching enemies swiftly. Paved roads are built for military use first and foremost. They are carefully surveyed and constructed, often including cuttings and extensive causeways. They will not degenerate into muddy rivers in winter or dusty tracks in summer, no matter how hard the usage. 
@@ -1251,10 +1251,10 @@ Mines are needed to exploit the natural wealth of a province, although the dange
 {mines+1_desc_short}	WARNING! This baseline short description should never appear on screen!
 
 {mines+1_barbarian_desc}
-WARNING! This text should never appear on screen!
+These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.\n\nIn addition to the miners, teams of slaves are used to lift water out of the workings using treadmill-powered waterwheels. Working in a mine like this is usually a deferred death sentence.\n\nThe wealth extracted by these mines is more than enough to make a handsome profit and pay for a constant influx of new slave labourers.
 
 {mines+1_barbarian_desc_short}
-WARNING! This text should never appear on screen!
+These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.
 
 {mines+1_carthage_desc}
 These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.\n\nIn addition to the miners, teams of slaves are used to lift water out of the workings using treadmill-powered waterwheels. Working in a mine like this is usually a deferred death sentence.\n\nThe wealth extracted by these mines is more than enough to make a handsome profit and pay for a constant influx of new slave labourers.
@@ -9105,11 +9105,13 @@ Communal farming produces a surplus that goes to market and this always ends up 
 
 {farms+2_desc_short}	WARNING! This baseline short description should never appear on screen!
 
+{farms+2_barbarian}	Crop Rotation
+
 {farms+2_barbarian_desc}
-WARNING! This text should never appear on screen!
+Crop rotation and basic land management techniques stop farms from becoming rapidly exhausted. By changing field usage every year and allowing land to lie fallow or be used as pasture, the goodness of the land is slowly restored. Crop yields and surpluses improve as a result, and the increased output adds to population growth. Slave labour also helps, as peasant farmers generally keep more produce for themselves.\n\nThis kind of farming can be upgraded as the settlement grows.
 
 {farms+2_barbarian_desc_short}
-WARNING! This text should never appear on screen!
+Crop rotation and basic land management techniques stop farms from becoming rapidly exhausted; yields and surpluses improve as a result.
 
 {farms+2_carthage}	Crop Rotation
 

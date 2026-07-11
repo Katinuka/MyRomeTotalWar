@@ -1323,7 +1323,7 @@ building hinterland_farms
                 farms+2
             }
         }
-        farms+2 requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+        farms+2 requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
         {
             capability
             {
@@ -1387,7 +1387,7 @@ building hinterland_roads
                 paved_roads
             }
         }
-        paved_roads requires factions { carthaginian, egyptian, greek, roman, } 
+        paved_roads requires factions { barbarian, carthaginian, egyptian, greek, roman, } 
         {
             capability
             {
@@ -1437,7 +1437,7 @@ building hinterland_mines
                 mines+1
             }
         }
-        mines+1 requires factions { carthaginian, eastern, egyptian, greek, roman, }  and resource silver or resource gold
+        mines+1 requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, }  and resource silver or resource gold
         {
             capability
             {
