@@ -1722,7 +1722,8 @@ building taverns
         {
             capability
             {
-                happiness_bonus bonus 1
+                happiness_bonus bonus 2
+				law_bonus bonus 1
             }
             construction  2 
             cost  800 
@@ -1737,7 +1738,8 @@ building taverns
             capability
             {
                 recruit "barb night raiders german"  0  requires factions { germans, } 
-                happiness_bonus bonus 2
+                happiness_bonus bonus 4
+				law_bonus bonus 2
             }
             construction  3 
             cost  1600 
