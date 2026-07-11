@@ -172,6 +172,8 @@ building defenses
             {
                 wall_level 0
                 tower_level 1
+				
+				happiness_bonus bonus 1
             }
             construction  1 
             cost  400 
@@ -188,6 +190,8 @@ building defenses
                 wall_level 1
                 gate_strength 1
                 tower_level 1
+				
+				happiness_bonus bonus 2
             }
             construction  2 
             cost  800 
@@ -205,6 +209,8 @@ building defenses
                 tower_level 1
                 gate_defences 1
                 gate_strength 1
+				
+				happiness_bonus bonus 3
             }
             construction  3 
             cost  1600 
@@ -222,6 +228,9 @@ building defenses
                 tower_level 1
                 gate_defences 2
                 gate_strength 2
+				
+				happiness_bonus bonus 3
+				law_bonus bonus 1
             }
             construction  5 
             cost  3200 
@@ -239,6 +248,9 @@ building defenses
                 tower_level 2
                 gate_defences 2
                 gate_strength 2
+				
+				happiness_bonus bonus 3
+				law_bonus bonus 2
             }
             construction  6 
             cost  6400 
