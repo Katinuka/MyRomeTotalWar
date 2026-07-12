@@ -1925,8 +1925,10 @@ building temple_of_battleforge
             {
                 recruit "barb naked fanatics gauls"  1  requires factions { gauls, } 
                 happiness_bonus bonus 5
+				population_health_bonus bonus 2
                 weapon_simple bonus 1
-                recruits_exp_bonus bonus 3
+				weapon_bladed bonus 1
+                recruits_exp_bonus bonus 2
                 armour bonus 1
             }
             construction  6 
