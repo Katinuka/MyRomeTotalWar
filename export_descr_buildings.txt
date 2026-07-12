@@ -540,6 +540,7 @@ building equestrian
                 recruit "barb cavalry german"  0  requires factions { germans, } 
                 recruit "barb cavalry dacian"  0  requires factions { dacia, } 
                 recruit "barb cavalry scythian"  0  requires factions { scythia, } 
+				recruit "merc barbarian cavalry"  0  requires factions { britons, } 
                 recruit "barb wardogs briton"  0  requires factions {  britons, } 
                 recruit "barb wardogs dacian"  0  requires factions { dacia, } 
                 recruit "barb wardogs gaul"  0  requires factions { gauls, } 
@@ -575,6 +576,7 @@ building equestrian
                 recruit "barb cavalry german"  0  requires factions { germans, } 
                 recruit "barb cavalry dacian"  0  requires factions { dacia, } 
                 recruit "barb cavalry scythian"  0  requires factions { scythia, } 
+				recruit "merc barbarian cavalry"  0  requires factions { britons, } 
                 recruit "barb wardogs briton"  0  requires factions {  britons, } 
                 recruit "barb wardogs dacian"  0  requires factions { dacia, } 
                 recruit "barb wardogs gaul"  0  requires factions { gauls, } 
@@ -625,6 +627,7 @@ building equestrian
                 recruit "barb cavalry german"  0  requires factions { germans, } 
                 recruit "barb cavalry dacian"  0  requires factions { dacia, } 
                 recruit "barb cavalry scythian"  0  requires factions { scythia, } 
+				recruit "merc barbarian cavalry"  0  requires factions { britons, } 
                 recruit "barb wardogs briton"  0  requires factions {  britons, } 
                 recruit "barb wardogs dacian"  0  requires factions { dacia, } 
                 recruit "barb wardogs gaul"  0  requires factions { gauls, } 
@@ -689,6 +692,7 @@ building equestrian
                 recruit "barb cavalry german"  0  requires factions { germans, } 
                 recruit "barb cavalry dacian"  0  requires factions { dacia, } 
                 recruit "barb cavalry scythian"  0  requires factions { scythia, } 
+				recruit "merc barbarian cavalry"  0  requires factions { britons, } 
                 recruit "barb wardogs briton"  0  requires factions {  britons, } 
                 recruit "barb wardogs dacian"  0  requires factions { dacia, } 
                 recruit "barb wardogs gaul"  0  requires factions { gauls, } 
