@@ -6216,7 +6216,7 @@ stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
 stat_cost        1, 550, 200, 60, 90, 550
-ownership        slave, greek_cities, macedon
+ownership        slave, greek
  
  
 type             merc greek hoplites
