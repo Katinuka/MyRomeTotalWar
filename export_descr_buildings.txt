@@ -1850,7 +1850,7 @@ building temple_of_battle
 }
 building temple_of_battleforge
 {
-    levels temple_of_battleforge_shrine temple_of_battleforge_temple temple_of_battleforge_large_temple temple_of_battleforge_awesome_temple 
+    levels temple_of_battleforge_shrine temple_of_battleforge_temple temple_of_battleforge_large_temple temple_of_battleforge_awesome_temple temple_of_battleforge_pantheon
     {
         temple_of_battleforge_shrine requires factions { spain, gauls, armenia, } 
         {
@@ -1914,6 +1914,24 @@ building temple_of_battleforge
             construction  5 
             cost  3200 
             settlement_min large_city
+            upgrades
+            {
+				temple_of_battleforge_pantheon
+            }
+        }
+		temple_of_battleforge_pantheon requires factions {  armenia, } 
+        {
+            capability
+            {
+                recruit "barb naked fanatics gauls"  1  requires factions { gauls, } 
+                happiness_bonus bonus 5
+                weapon_simple bonus 1
+                recruits_exp_bonus bonus 3
+                armour bonus 1
+            }
+            construction  6 
+            cost  6400 
+            settlement_min huge_city
             upgrades
             {
             }
@@ -1987,7 +2005,7 @@ building temple_of_farming
                 temple_of_farming_pantheon
             }
         }
-        temple_of_farming_pantheon requires factions { macedon, } 
+        temple_of_farming_pantheon requires factions { carthaginian, macedon, } 
         {
             capability
             {
@@ -2250,7 +2268,7 @@ building temple_of_fun
                 temple_of_fun_pantheon
             }
         }
-        temple_of_fun_pantheon requires factions { egyptian, thrace, seleucid, romans_julii, } 
+        temple_of_fun_pantheon requires factions { armenia, egyptian, thrace, seleucid, romans_julii, } 
         {
             capability
             {
@@ -2334,7 +2352,7 @@ building temple_of_governors
                 temple_of_governors_pantheon
             }
         }
-        temple_of_governors_pantheon requires factions { macedon, } 
+        temple_of_governors_pantheon requires factions { pontus, macedon, } 
         {
             capability
             {
@@ -2684,7 +2702,7 @@ building temple_of_justice
                 temple_of_justice_pantheon
             }
         }
-        temple_of_justice_pantheon requires factions { egyptian, } 
+        temple_of_justice_pantheon requires factions { carthaginian, egyptian, } 
         {
             capability
             {
@@ -2862,7 +2880,7 @@ building temple_of_leadership
                 temple_of_leadership_pantheon
             }
         }
-        temple_of_leadership_pantheon requires factions { greek_cities, romans_julii, } 
+        temple_of_leadership_pantheon requires factions { armenia, greek_cities, romans_julii, } 
         {
             capability
             {
@@ -2952,7 +2970,7 @@ building temple_of_love
                 temple_of_love_pantheon
             }
         }
-        temple_of_love_pantheon requires factions { greek_cities, } 
+        temple_of_love_pantheon requires factions { pontus, greek_cities, } 
         {
             capability
             {
@@ -3208,7 +3226,7 @@ building temple_of_trade
                 temple_of_trade_pantheon
             }
         }
-        temple_of_trade_pantheon requires factions { greek_cities, romans_brutii, } 
+        temple_of_trade_pantheon requires factions { carthaginian, greek_cities, romans_brutii, } 
         {
             capability
             {
@@ -3389,7 +3407,7 @@ building temple_of_violence
                 temple_of_violence_pantheon
             }
         }
-        temple_of_violence_pantheon requires factions { macedon, romans_brutii, } 
+        temple_of_violence_pantheon requires factions { pontus, macedon, romans_brutii, } 
         {
             capability
             {
