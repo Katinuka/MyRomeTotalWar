@@ -1877,7 +1877,7 @@ dictionary       barb_ballistas_dacian      ; Ballistas
 category         siege
 class            missile
 voice_type       Light_1
-soldier          barb_crew, 12, 2, 0.9
+soldier          barb_crew, 12, 3, 0.9
 engine           ballista
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -1903,7 +1903,7 @@ dictionary       barb_onagers_dacian      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          barb_crew, 16, 2, 0.9
+soldier          barb_crew, 16, 3, 0.9
 engine           onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -1929,7 +1929,7 @@ dictionary       barb_onagers_scythian      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          barb_crew, 16, 2, 0.9
+soldier          barb_crew, 16, 3, 0.9
 engine           onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -2879,7 +2879,7 @@ dictionary       carthaginian_onagers      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          carthaginian_crew, 16, 2, 0.8
+soldier          carthaginian_crew, 16, 3, 0.8
 engine           onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -2905,7 +2905,7 @@ dictionary       carthaginian_heavy_onagers      ; Heavy Onagers
 category         siege
 class            missile
 voice_type       Medium_1
-soldier          carthaginian_crew, 16, 2, 0.8
+soldier          carthaginian_crew, 16, 3, 0.8
 engine           heavy_onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -3563,7 +3563,7 @@ dictionary       east_onager      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          east_crew, 16, 2, 0.8
+soldier          east_crew, 16, 3, 0.8
 engine           onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -3980,7 +3980,7 @@ dictionary       egyptian_onagers      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          egyptian_crew, 16, 2, 0.8
+soldier          egyptian_crew, 16, 3, 0.8
 engine           onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -4006,7 +4006,7 @@ dictionary       egyptian_heavy_onagers      ; Heavy Onagers
 category         siege
 class            missile
 voice_type       Medium_1
-soldier          egyptian_crew, 16, 2, 0.8
+soldier          egyptian_crew, 16, 3, 0.8
 engine           heavy_onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -4792,7 +4792,7 @@ dictionary       greek_ballistas      ; Ballistas
 category         siege
 class            missile
 voice_type       Light_1
-soldier          greek_crew, 12, 2, 0.8
+soldier          greek_crew, 12, 3, 0.8
 engine           ballista
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -4818,7 +4818,7 @@ dictionary       greek_onagers      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          greek_crew, 16, 2, 0.8
+soldier          greek_crew, 16, 3, 0.8
 engine           onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -4844,7 +4844,7 @@ dictionary       greek_heavy_onagers      ; Heavy Onagers
 category         siege
 class            missile
 voice_type       Medium_1
-soldier          greek_crew, 16, 2, 0.8
+soldier          greek_crew, 16, 3, 0.8
 engine           heavy_onager
 attributes       sea_faring
 formation        1.5, 1.5, 3, 3, 3, square
@@ -5655,7 +5655,7 @@ dictionary       roman_ballista      ; Ballistas
 category         siege
 class            missile
 voice_type       Light_1
-soldier          roman_crew, 12, 2, 0.8
+soldier          roman_crew, 12, 3, 0.8
 engine           ballista
 attributes       sea_faring, hardy
 formation        1.5, 1.5, 3, 3, 3, square
@@ -5681,7 +5681,7 @@ dictionary       roman_scorpion      ; Scorpions
 category         siege
 class            missile
 voice_type       Light_1
-soldier          roman_crew, 12, 2, 0.8
+soldier          roman_crew, 12, 3, 0.8
 engine           scorpion
 attributes       sea_faring, hardy
 formation        1.5, 1.5, 3, 3, 3, square
@@ -5707,7 +5707,7 @@ dictionary       roman_onager      ; Onagers
 category         siege
 class            missile
 voice_type       Light_1
-soldier          roman_crew, 16, 2, 0.8
+soldier          roman_crew, 16, 3, 0.8
 engine           onager
 attributes       sea_faring, hardy
 formation        1.5, 1.5, 3, 3, 3, square
@@ -5733,7 +5733,7 @@ dictionary       roman_heavy_onager      ; Heavy Onagers
 category         siege
 class            missile
 voice_type       Medium_1
-soldier          roman_crew, 16, 2, 0.8
+soldier          roman_crew, 16, 3, 0.8
 engine           heavy_onager
 attributes       sea_faring, hardy
 formation        1.5, 1.5, 3, 3, 3, square
@@ -5759,7 +5759,7 @@ dictionary       roman_repeating_ballistae      ; Repeating Ballistas
 category         siege
 class            missile
 voice_type       Medium_1
-soldier          roman_crew, 24, 2, 0.8
+soldier          roman_crew, 24, 3, 0.8
 engine           repeating_ballista
 attributes       sea_faring, hardy
 formation        1.5, 1.5, 3, 3, 3, square
