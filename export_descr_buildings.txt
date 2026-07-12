@@ -1401,7 +1401,7 @@ building hinterland_roads
                 highways
             }
         }
-        highways requires factions { roman, } 
+        highways requires factions { roman, greek, } 
         {
             capability
             {
