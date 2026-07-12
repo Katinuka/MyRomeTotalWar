@@ -2310,7 +2310,7 @@ WARNING! This text should never appear on screen!
 {temple_of_farming_awesome_temple_carthage}	Awesome Temple of Tanit
 
 {temple_of_farming_awesome_temple_carthage_desc}
-This Awesome Temple is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Prayers are offered to her to ensure children, good harvests and tranquility in people's homes. She was Astarte to the Phoenicians, the original settlers of Carthage. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Prayers are offered to her to ensure children, good harvests and tranquility in people's homes. She was Astarte to the Phoenicians, the original settlers of Carthage. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_farming_awesome_temple_carthage_desc_short}
 This Awesome Temple is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Prayers are offered to her to ensure children, good harvests and tranquility in people's homes. 
@@ -3662,11 +3662,13 @@ WARNING! This text should never appear on screen!
 {temple_of_justice_pantheon_barbarian_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_justice_pantheon_carthage} Temple Complex of Baal
+
 {temple_of_justice_pantheon_carthage_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Baal, the Ruler of the Universe and the Rider of the Clouds. He is the source of life, and a powerful god of war. He is the god on which all others depend, and a wielder of thunderbolts. Worship of Baal also includes child sacrifice and holy prostitution among its other observances. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_justice_pantheon_carthage_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Baal, the Ruler of the Universe and the Rider of the Clouds. He is the source of life, and a powerful god of war. 
 
 {temple_of_justice_pantheon_eastern_desc}
 WARNING! This text should never appear on screen!
@@ -4070,11 +4072,13 @@ WARNING! This text should never appear on screen!
 {temple_of_leadership_pantheon_carthage_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_leadership_pantheon_eastern}	Temple Complex of Armazd
+
 {temple_of_leadership_pantheon_eastern_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.The chief celebration in his honour is always held on the Spring equinox. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_leadership_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.
 
 {temple_of_leadership_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -5130,7 +5134,7 @@ WARNING! This text should never appear on screen!
 {temple_of_battleforge_awesome_temple_eastern}	Awesome Temple of Vahagan
 
 {temple_of_battleforge_awesome_temple_eastern_desc}
-This Awesome Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.It is in this capacity that he is honoured by warriors. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.It is in this capacity that he is honoured by warriors. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_battleforge_awesome_temple_eastern_desc_short}
 This Large Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
@@ -5151,6 +5155,53 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_battleforge_awesome_temple_roman_desc_short}
+WARNING! This text should never appear on screen!
+
+
+¬--------------
+
+{temple_of_battleforge_pantheon}	Temple of Battleforge Pantheon
+
+{temple_of_battleforge_pantheon_desc}	[#PLACEHOLDER DEFAULT Base description for building and effects#]
+
+{temple_of_battleforge_pantheon_desc_short}	[#Short Description PLACEHOLDER DEFAULT text#]
+
+{temple_of_battleforge_pantheon_barbarian_desc}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_barbarian_desc_short}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_carthage_desc}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_carthage_desc_short}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_eastern}	Temple Complex of Vahagan
+
+{temple_of_battleforge_pantheon_eastern_desc}
+This Temple Complex is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.It is in this capacity that he is honoured by warriors. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+
+{temple_of_battleforge_pantheon_eastern_desc_short}
+This Temple Complex is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
+
+{temple_of_battleforge_pantheon_egyptian_desc}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_egyptian_desc_short}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_greek_desc}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_greek_desc_short}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_roman_desc}
+WARNING! This text should never appear on screen!
+
+{temple_of_battleforge_pantheon_roman_desc_short}
 WARNING! This text should never appear on screen!
 
 
@@ -5698,11 +5749,13 @@ WARNING! This text should never appear on screen!
 {temple_of_farming_pantheon_barbarian_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_farming_pantheon_carthage}	Temple Complex of Tanit
+
 {temple_of_farming_pantheon_carthage_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Prayers are offered to her to ensure children, good harvests and tranquility in people's homes. She was Astarte to the Phoenicians, the original settlers of Carthage. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_farming_pantheon_carthage_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Prayers are offered to her to ensure children, good harvests and tranquility in people's homes.
 
 {temple_of_farming_pantheon_eastern_desc}
 WARNING! This text should never appear on screen!
@@ -5800,11 +5853,13 @@ WARNING! This text should never appear on screen!
 {temple_of_governors_pantheon_carthage_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_governors_pantheon_eastern}	Temple Complex of Zeus
+
 {temple_of_governors_pantheon_eastern_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. Little escapes the attention of Zeus from his home on Mount Olympus, from the softest whisper to the clamour of battle. There is almost nothing in which he does not have a hand. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_governors_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. 
 
 {temple_of_governors_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -5844,7 +5899,7 @@ WARNING! This text should never appear on screen!
 {temple_of_justice_awesome_temple_carthage}	Awesome Temple of Baal
 
 {temple_of_justice_awesome_temple_carthage_desc}
-This Awesome Temple is dedicated to Baal, the Ruler of the Universe and the Rider of the Clouds. He is the source of life, and a powerful god of war. He is the god on which all others depend, and a wielder of thunderbolts. Worship of Baal also includes child sacrifice and holy prostitution among its other observances. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Baal, the Ruler of the Universe and the Rider of the Clouds. He is the source of life, and a powerful god of war. He is the god on which all others depend, and a wielder of thunderbolts. Worship of Baal also includes child sacrifice and holy prostitution among its other observances. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_justice_awesome_temple_carthage_desc_short}
 This Awesome Temple is dedicated to Baal, the Ruler of the Universe and the Rider of the Clouds. He is the source of life, and a powerful god of war. 
@@ -6343,11 +6398,13 @@ WARNING! This text should never appear on screen!
 {temple_of_fun_pantheon_carthage_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_fun_pantheon_eastern}	Temple Complex of Anahit
+
 {temple_of_fun_pantheon_eastern_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon. As such, she is widely worshipped and respected for he influence in all areas of life. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_fun_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
 
 {temple_of_fun_pantheon_egyptian}	Temple City
 
@@ -6586,11 +6643,13 @@ WARNING! This text should never appear on screen!
 {temple_of_love_pantheon_carthage_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_love_pantheon_eastern}	Temple Complex of Aphrodite
+
 {temple_of_love_pantheon_eastern_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! When she appears in mortal form Aphrodite sometimes has the misfortune to inspire obsessional love bordering on the completely mad!\n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_love_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! 
 
 {temple_of_love_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -6683,7 +6742,7 @@ WARNING! This text should never appear on screen!
 {temple_of_trade_awesome_temple_carthage}	Awesome Temple of Milqart
 
 {temple_of_trade_awesome_temple_carthage_desc}
-This Awesome Temple is dedicated to Milqart, the son of Baal and the Ruler of the Underworld. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Milqart, the son of Baal and the Ruler of the Underworld. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_trade_awesome_temple_carthage_desc_short}
 This Awesome Temple is dedicated to Milqart, the son of Baal and the Ruler of the Underworld. 
@@ -6988,11 +7047,13 @@ WARNING! This text should never appear on screen!
 {temple_of_trade_pantheon_barbarian_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_trade_pantheon_carthage}	Temple Complex of Milqart
+
 {temple_of_trade_pantheon_carthage_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Milqart, the son of Baal and the Ruler of the Underworld. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_trade_pantheon_carthage_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Milqart, the son of Baal and the Ruler of the Underworld. 
 
 {temple_of_trade_pantheon_eastern_desc}
 WARNING! This text should never appear on screen!
@@ -7164,10 +7225,10 @@ WARNING! This text should never appear on screen!
 {temple_of_fun_awesome_temple_eastern}	Awesome Temple of Anahit
 
 {temple_of_fun_awesome_temple_eastern_desc}
-This Awesome Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon. As such, she is widely worshipped and respected for he influence in all areas of life. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon. As such, she is widely worshipped and respected for he influence in all areas of life. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_fun_awesome_temple_eastern_desc_short}
-This Aswesome Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
+This Awesome Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
 
 {temple_of_fun_awesome_temple_egyptian}	Awesome Temple of Osiris
 
@@ -7217,7 +7278,7 @@ WARNING! This text should never appear on screen!
 {temple_of_governors_awesome_temple_eastern}	Awesome Temple of Zeus
 
 {temple_of_governors_awesome_temple_eastern_desc}
-This Awesome Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. Little escapes the attention of Zeus from his home on Mount Olympus, from the softest whisper to the clamour of battle. There is almost nothing in which he does not have a hand. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. Little escapes the attention of Zeus from his home on Mount Olympus, from the softest whisper to the clamour of battle. There is almost nothing in which he does not have a hand. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_governors_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. 
@@ -7266,7 +7327,7 @@ WARNING! This text should never appear on screen!
 {temple_of_leadership_awesome_temple_eastern}	Awesome Temple of Armazd
 
 {temple_of_leadership_awesome_temple_eastern_desc}
-This Awesome Temple is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.The chief celebration in his honour is always held on the Spring equinox. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.The chief celebration in his honour is always held on the Spring equinox. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_leadership_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.
@@ -7317,7 +7378,7 @@ WARNING! This text should never appear on screen!
 {temple_of_love_awesome_temple_eastern}	Awesome Temple of Aphrodite
 
 {temple_of_love_awesome_temple_eastern_desc}
-This Awesome Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! When she appears in mortal form Aphrodite sometimes has the misfortune to inspire obsessional love bordering on the completely mad!\n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
+This Awesome Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! When she appears in mortal form Aphrodite sometimes has the misfortune to inspire obsessional love bordering on the completely mad!\n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_love_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! 
@@ -7413,7 +7474,7 @@ WARNING! This text should never appear on screen!
 {temple_of_violence_awesome_temple_eastern}	Awesome Temple of Hercules
 
 {temple_of_violence_awesome_temple_eastern_desc}
-This Awesome Temple is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. His brave deeds - impossible for any other to carry out - make him an inspiration to all warriors. Pontus - as a successor kingdom to Alexander's empire - honours the Gods of Greece. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured. 
+This Awesome Temple is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. His brave deeds - impossible for any other to carry out - make him an inspiration to all warriors. Pontus - as a successor kingdom to Alexander's empire - honours the Gods of Greece. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_violence_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. 
@@ -7461,11 +7522,13 @@ WARNING! This text should never appear on screen!
 {temple_of_violence_pantheon_carthage_desc_short}
 WARNING! This text should never appear on screen!
 
+{temple_of_violence_pantheon_eastern}	Temple Complex of Hercules
+
 {temple_of_violence_pantheon_eastern_desc}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. His brave deeds - impossible for any other to carry out - make him an inspiration to all warriors. Pontus - as a successor kingdom to Alexander's empire - honours the Gods of Greece. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured.
 
 {temple_of_violence_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
+This Temple Complex is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. 
 
 {temple_of_violence_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
