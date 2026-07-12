@@ -6478,7 +6478,7 @@ stat_mental      8, normal, highly_trained
 stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        1, 2690, 490, 270, 410, 2690
+stat_cost        2, 2690, 490, 270, 410, 2690
 ownership        slave, numidia
  
  
