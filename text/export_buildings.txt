@@ -1179,10 +1179,10 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {highways_greek_desc}
-WARNING! This text should never appear on screen!
+These Roman roads allow swift movement by large armies to defend the Empire. As engineering works, they are unmatched in the rest of the world.\n\nThe straight-line simplicity of these roads hides the genius that has gone into their careful construction (few other nations can match Roman engineering), as they can carry almost limitless military traffic.
 
 {highways_greek_desc_short}
-WARNING! This text should never appear on screen!
+These superb roads allow very swift movement by massed Roman armies to defend the Empire.
 
 {highways_roman_desc}
 These Roman roads allow swift movement by large armies to defend the Empire. As engineering works, they are unmatched in the rest of the world.\n\nThe straight-line simplicity of these roads hides the genius that has gone into their careful construction (few other nations can match Roman engineering), as they can carry almost limitless military traffic.
