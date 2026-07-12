@@ -956,11 +956,13 @@ Being trapped between the desert and the sea at Carthage taught Carthaginian far
 {farms+4_carthage_desc_short}
 Being trapped between the desert and the sea at Carthage taught Carthaginian farmers to get the most from their lands. These skills are now well known.
 
+{farms+4_eastern}	Great Estates
+
 {farms+4_eastern_desc}
-WARNING! This text should never appear on screen!
+The need to grow even more food leads to increases in the size and efficiency of farms. Great Estates are enormous and efficient estates that are put together through legally confiscating land from peasant farmers. Worked by slaves, they produce huge surpluses and are very profitable to the owners. Everyone (except the dispossessed peasants and the slaves) does very well out of the Great Estates system.
 
 {farms+4_eastern_desc_short}
-WARNING! This text should never appear on screen!
+Great Estates are enormous (and efficient) estates that are created by legally confiscating land from peasant farmers. Economies of scale are the main benefit.
 
 {farms+4_egyptian}	Great Estates
 
@@ -970,11 +972,13 @@ The farming skills learned in the Nile valley make Egyptian farmers second to no
 {farms+4_egyptian_desc_short}
 The farming skills learned in the Nile valley make Egyptian farmers second to none. They can improve almost any land and make it highly productive.
 
+{farms+4_greek}	Great Estates
+
 {farms+4_greek_desc}
-WARNING! This text should never appear on screen!
+The need to grow even more food leads to increases in the size and efficiency of farms. Great Estates are enormous and efficient estates that are put together through legally confiscating land from peasant farmers. Worked by slaves, they produce huge surpluses and are very profitable to the owners. Everyone (except the dispossessed peasants and the slaves) does very well out of the Great Estates system.
 
 {farms+4_greek_desc_short}
-WARNING! This text should never appear on screen!
+Great Estates are enormous (and efficient) estates that are created by legally confiscating land from peasant farmers. Economies of scale are the main benefit.
 
 {farms+4_roman}	Latifundia
 
