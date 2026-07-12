@@ -224,12 +224,6 @@ Barracks provide the basics for training a local force for defence. They can be 
 {muster_field_eastern_desc_short}
 Barracks provide the basics for training soldiers. They can be upgraded as the town grows to produce better troops.
 
-{muster_field_parthia_desc}
-Barracks provide the basics for training a local force for defence. They can be upgraded as the city grows to produce better troops.\n\nBarracks are not salubrious or comfortable, but then they don't have to be - the men aren't here for a rest cure, but to be toughened up and to learn enough drill to be useful in war!
-
-{muster_field_parthia_desc_short}
-Barracks provide the basics for training soldiers. They can be upgraded as the town grows to produce better troops.
-
 {muster_field_egyptian_desc}
 Barracks provide the basics for training a local force for defence. They can be upgraded as the city grows to produce better troops.\n\nBarracks are often not quite salubrious, but then they don't have to be - the servants of the Pharaoh aren't here for a rest cure, but to be toughened up and to learn enough drill to be useful in defending their living God!
 
@@ -275,12 +269,6 @@ Militia Barracks have better facilities to train and house regular soldiers. The
 Militia Barracks have better facilities to train and house semi-regular soldiery. They can be improved as the town, its population and wealth grow. Being citizens-at-arms, these men have chosen to defend their homes and loved ones, but they may not be as 'professional' as full time soldiers. Their barracks are clean, but lack creature comforts - these men are here to learn the skills of war and defend the state, not enjoy themselves!
 
 {militia_barracks_eastern_desc_short}
-Militia Barracks have better facilities to train and house regular soldiers. They can be improved as the town grows.
-
-{militia_barracks_parthia_desc}
-Militia Barracks have better facilities to train and house semi-regular soldiery. They can be improved as the town, its population and wealth grow. Being citizens-at-arms, these men have chosen to defend their homes and loved ones, but they may not be as 'professional' as full time soldiers. Their barracks are clean, but lack creature comforts - these men are here to learn the skills of war and defend the state, not enjoy themselves!
-
-{militia_barracks_parthia_desc_short}
 Militia Barracks have better facilities to train and house regular soldiers. They can be improved as the town grows.
 
 {militia_barracks_egyptian_desc}
@@ -330,12 +318,6 @@ A City Barracks is a major building in any town, allowing many troops to be trai
 {city_barracks_eastern_desc_short}
 City Barracks are a major structure allowing many troops to be trained. They are a highly visible military presence, and can be developed further.
 
-{city_barracks_parthia_desc}
-A City Barracks is a major building in any town, allowing many troops to be trained here. It is a symbol of the military might of the state, and a vital part of the army's support structure.\n\nThe men trained here have a real stake in the community, one worth defending. The skills gained here allow them to fight as organised formations, something that takes time and discipline to learn to do properly.
-
-{city_barracks_parthia_desc_short}
-City Barracks are a major structure allowing many troops to be trained. They are a highly visible military presence, and can be developed further.
-
 {city_barracks_egyptian_desc}
 A City Barracks is a major building in any town, allowing many troops to be trained here. It is a symbol of the military might of the great Pharaoh, and a vital part of the army's support structure.\n\nThe men trained here dedicate their lives to defending the Pharaoh and extending his domains. The skills gained allow them to fight as organised formations, something that takes time and discipline to learn to do properly.
 
@@ -383,12 +365,6 @@ These imposing barracks are often the largest buildings in a city after the pala
 {army_barracks_eastern_desc_short}
 These imposing Army Barracks are often the largest buildings in a city after the palace. They include extensive drill and training facilities.
 
-{army_barracks_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{army_barracks_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {army_barracks_egyptian_desc}
 These imposing barracks are often the largest buildings in a city after the palace, and include extensive drill and training yards. Army Barracks are also deliberately large to make it quite clear where the power lies to anyone harbouring disloyal thoughts!\n\nDiscipline is often harsh, but the soldiers who are trained here are among the best available to the state. 
 
@@ -432,12 +408,6 @@ A Catapult Range lets artillerists, archers and javelinmen fire away to their he
 It is always better to attack an enemy from a distance, for then he cannot always strike back. A Catapult Range lets artillerists, archers and javelinmen fire away to their hearts content during training - and all without the risk of killing too many innocent bystanders! The engineers needed to build large artillery weapons are nearby, and can assist in the training of crews. Other missile troops can use the same range during their training.
 
 {catapult_range_eastern_desc_short}
-A Catapult Range lets artillerists, archers and javelinmen fire away to their hearts content during training - and all without the risk of killing too many innocent bystanders!
-
-{catapult_range_parthia_desc}
-It is always better to attack an enemy from a distance, for then he cannot always strike back. A Catapult Range lets artillerists, archers and javelinmen fire away to their hearts content during training - and all without the risk of killing too many innocent bystanders! The engineers needed to build large artillery weapons are nearby, and can assist in the training of crews. Other missile troops can use the same range during their training.
-
-{catapult_range_parthia_desc_short}
 A Catapult Range lets artillerists, archers and javelinmen fire away to their hearts content during training - and all without the risk of killing too many innocent bystanders!
 
 {catapult_range_egyptian_desc}
@@ -485,12 +455,6 @@ The Trader sells some local produce to other settlements increasing - in a small
 {trader_eastern_desc_short}
 The Trader sells some local produce to other settlements increasing - in a small way - the wealth of the community.
 
-{trader_parthia_desc}
-The Trader sells some local produce to other settlements increasing - in a small way - the wealth of the community. Trade carries risks, but it is an excellent way of increasing wealth, because settlements and nations flourish when they are mutually supporting, not attempting to be entirely self sufficient.\n\nTrade can, of course, be taxed. It can also be improved when this building is upgraded.
-
-{trader_parthia_desc_short}
-The Trader sells some local produce to other settlements increasing - in a small way - the wealth of the community.
-
 {trader_egyptian_desc}
 The Trader sells some local produce to other settlements increasing - in a small way - the wealth of the community. Trade carries risks, but it is an excellent way of increasing wealth, because settlements and nations flourish when they are mutually supporting, not attempting to be entirely self sufficient.\n\nTrade can, of course, be taxed. It can also be improved when this building is upgraded.
 
@@ -534,12 +498,6 @@ An organised Market allows locals to trade and brings in outside traders too. Ma
 As a settlement grows the returns on trade improve too, as long as merchants are encouraged to do business. An organised Market allows locals to trade and brings in outside traders too. It's a place for people to meet, buy and sell, and catch up on gossip. Many goods are available, including information - at the right price.\n\nTrade can, of course, be taxed. It can also be improved when this building is upgraded.\n\nThe Market is also a place to hire those who specialise in the information business.
 
 {market_eastern_desc_short}
-An organised Market allows locals to trade and brings in outside traders too. Many goods are available, including information - at the right price.
-
-{market_parthia_desc}
-As a settlement grows the returns on trade improve too, as long as merchants are encouraged to do business. An organised Market allows locals to trade and brings in outside traders too. It's a place for people to meet, buy and sell, and catch up on gossip. Many goods are available, including information - at the right price.\n\nTrade can, of course, be taxed. It can also be improved when this building is upgraded.\n\nThe Market is also a place to hire those who specialise in the information business.
-
-{market_parthia_desc_short}
 An organised Market allows locals to trade and brings in outside traders too. Many goods are available, including information - at the right price.
 
 {market_egyptian_desc}
@@ -589,14 +547,6 @@ If it can't be bought or sold somewhere among the traders in the Grand Bazaar, t
 If it can't be bought or sold somewhere among the traders in the Grand Bazaar, then 'it' probably isn't worth bothering about, whatever it might be. This is the great centre of all business in a city, a place where goods from across the known world can be found. Anything - even a man's loyalty, his secrets or his demise - can be bought when the price is right.\n\nSuch extensive trading activity can, of course, be taxed. It can also be improved when this building is upgraded.
 
 {great_forum_eastern_desc_short}
-If it can't be bought or sold somewhere among the traders in the Grand Bazaar, then 'it' probably isn't worth bothering about!
-
-{great_forum_parthia}	Grand Bazaar
-
-{great_forum_parthia_desc}
-If it can't be bought or sold somewhere among the traders in the Grand Bazaar, then 'it' probably isn't worth bothering about, whatever it might be. This is the great centre of all business in a city, a place where goods from across the known world can be found. Anything - even a man's loyalty, his secrets or his demise - can be bought when the price is right.\n\nSuch extensive trading activity can, of course, be taxed. It can also be improved when this building is upgraded.
-
-{great_forum_parthia_desc_short}
 If it can't be bought or sold somewhere among the traders in the Grand Bazaar, then 'it' probably isn't worth bothering about!
 
 {great_forum_egyptian}	Grand Bazaar
@@ -650,12 +600,6 @@ A foundry is the final metalworking development found only in the larger cities:
 {foundry_eastern_desc_short}
 A foundry is the final metalworking development found only in the larger cities: a factory where very high quality armour and weaponry can be produced quickly, and in quantity. 
 
-{foundry_parthia_desc}
-A foundry is the final metalworking development found only in the larger cities: a factory where very high quality armour and weaponry can be produced quickly, and in quantity. \n\nAny troops trained in this city will be equipped to the highest standard possible, making them formidable in combat, providing of course, that they are well motivated and properly commanded!
-
-{foundry_parthia_desc_short}
-A foundry is the final metalworking development found only in the larger cities: a factory where very high quality armour and weaponry can be produced quickly, and in quantity. 
-
 {foundry_egyptian_desc}
 A foundry is the final metalworking development found only in the larger cities: a factory where very high quality armour and weaponry can be produced quickly, and in quantity. \n\nAny troops trained in this city will be equipped to the highest standard possible, making them formidable in combat, providing of course, that they are well motivated and properly commanded!
 
@@ -699,12 +643,6 @@ A port brings trade and wealth to a settlement, and allows the construction of s
 A port brings trade and wealth to a settlement, and allows the construction of simple ships. Access to the sea is vital for all long distance trade. The sea lanes are the true highways of the world, and carrying goods by ship is the only way to move them cheaply enough to make a profit. Indeed, it is usually cheaper and quicker to send a cargo halfway across the world by sea than to the next city in a cart!\n\nMilitarily, ports are important because they have the men and equipment needed to build a fleet.
 
 {port_eastern_desc_short}
-A port brings trade and wealth to a settlement, and allows the construction of simple ships.
-
-{port_parthia_desc}
-A port brings trade and wealth to a settlement, and allows the construction of simple ships. Access to the sea is vital for all long distance trade. The sea lanes are the true highways of the world, and carrying goods by ship is the only way to move them cheaply enough to make a profit. Indeed, it is usually cheaper and quicker to send a cargo halfway across the world by sea than to the next city in a cart!\n\nMilitarily, ports are important because they have the men and equipment needed to build a fleet.
-
-{port_parthia_desc_short}
 A port brings trade and wealth to a settlement, and allows the construction of simple ships.
 
 {port_egyptian_desc}
@@ -752,12 +690,6 @@ A shipwright can build the warships needed for a strong fleet, while the improve
 {shipwright_eastern_desc_short}
 A shipwright can build the warships needed for a strong fleet, while the improved port facilities allow more goods to be landed at and forwarded from the settlement.
 
-{shipwright_parthia_desc}
-A shipwright can build the warships needed for a strong fleet, while the improved port facilities allow more goods to be landed at and forwarded from the settlement.\n\nAs a port grows wealth flows into the town, and all manner of goods become available to the people.\n\nMilitarily, the improvements in ship-building usually lead to better ship-handling and tactics.
-
-{shipwright_parthia_desc_short}
-A shipwright can build the warships needed for a strong fleet, while the improved port facilities allow more goods to be landed at and forwarded from the settlement.
-
 {shipwright_egyptian_desc}
 A shipwright can build the warships needed for a strong fleet, while the improved port facilities allow more goods to be landed at and forwarded from the settlement.\n\nAs a port grows wealth flows into the town, and all manner of goods become available to the people.\n\nMilitarily, the improvements in ship-building usually lead to better ship-handling and tactics.
 
@@ -801,12 +733,6 @@ A Dockyard has the equipment and skilled craftsmen needed to construct the large
 A Dockyard has the equipment and skilled craftsmen needed to construct the largest and most advanced warships afloat, while the port can speedily handle many merchant vessels.\n\nThe city's merchants can easily send their cargoes to any port in the world, adding greatly to the wealth of the city and in return exotic goods from all over the world pass through the docks.\n\nThe Dockyard can produce any warship required by the fleet, and even provide the crews of slave rowers required by these large and powerful ships.
 
 {dockyard_eastern_desc_short}
-A Dockyard has the equipment and skilled craftsmen needed to construct the largest and most advanced warships afloat, while the port can speedily handle many merchant vessels.
-
-{dockyard_parthia_desc}
-A Dockyard has the equipment and skilled craftsmen needed to construct the largest and most advanced warships afloat, while the port can speedily handle many merchant vessels.\n\nThe city's merchants can easily send their cargoes to any port in the world, adding greatly to the wealth of the city and in return exotic goods from all over the world pass through the docks.\n\nThe Dockyard can produce any warship required by the fleet, and even provide the crews of slave rowers required by these large and powerful ships.
-
-{dockyard_parthia_desc_short}
 A Dockyard has the equipment and skilled craftsmen needed to construct the largest and most advanced warships afloat, while the port can speedily handle many merchant vessels.
 
 {dockyard_egyptian_desc}
@@ -854,12 +780,6 @@ WARNING! This text should never appear on screen!
 {sewers_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{sewers_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{sewers_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {sewers_egyptian_desc}
 Sewers efficiently wash away the filth and rubbish from a settlement, making the place cleaner. Indeed, one measure of civilization might be the distance between one's nose and the final resting place of one's bowel movements! Sewers therefore help civilization's forward march.
 
@@ -903,12 +823,6 @@ Public baths play an important part in the social life of the town; they are a p
 WARNING! This text should never appear on screen!
 
 {baths_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{baths_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{baths_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {baths_egyptian_desc}
@@ -956,12 +870,6 @@ WARNING! This text should never appear on screen!
 {aqueduct_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{aqueduct_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{aqueduct_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {aqueduct_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -1005,12 +913,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {city_plumbing_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{city_plumbing_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{city_plumbing_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {city_plumbing_egyptian_desc}
@@ -1058,12 +960,6 @@ Being trapped between the desert and the sea at Carthage taught Carthaginian far
 WARNING! This text should never appear on screen!
 
 {farms+4_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{farms+4_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{farms+4_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {farms+4_egyptian}	Great Estates
@@ -1115,12 +1011,6 @@ These improved roads allow armies to assemble and then meet approaching enemies 
 {paved_roads_eastern_desc_short}
 These improved roads allow armies to assemble swiftly and then march great distances to meet approaching enemies.
 
-{paved_roads_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{paved_roads_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {paved_roads_egyptian_desc}
 These improved roads allow armies to assemble and then meet approaching enemies swiftly. Paved roads are built for military use first and foremost. They are carefully surveyed and constructed, often including cuttings and extensive causeways. They will not degenerate into muddy rivers in winter or dusty tracks in summer, no matter how hard the usage. 
 
@@ -1164,12 +1054,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {highways_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{highways_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{highways_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {highways_egyptian_desc}
@@ -1217,12 +1101,6 @@ Mines are needed to exploit the natural wealth of a province, although the dange
 {mines_eastern_desc_short}
 Mines are needed to exploit the natural wealth of a province, although the dangerous underground work costs the lives of many slaves.
 
-{mines_parthia_desc}
-Mines are needed to exploit the natural wealth of a province, although the dangerous underground work costs the lives of many slaves.\n\nMost mines are not very deep, as they are dug by back-breaking labour and follow the richest seams of ore into hillsides (drift mining), rather than having vertical mine shafts.\n\nWhere gold and silver are to be found, mining is sure to be a priority of the land's overlords.
-
-{mines_parthia_desc_short}
-Mines are needed to exploit the natural wealth of a province, although the dangerous underground work costs the lives of many slaves.
-
 {mines_egyptian_desc}
 Mines are needed to exploit the natural wealth of a province, although the dangerous underground work costs the lives of many slaves.\n\nMost mines are not very deep, as they are dug by back-breaking labour and follow the richest seams of ore into hillsides (drift mining), rather than having vertical mine shafts.\n\nWhere gold and silver are to be found, mining is sure to be a priority of the land's overlords.
 
@@ -1266,12 +1144,6 @@ These deeper Mines exploit the wealth of a region more efficiently, allowing sea
 These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.\n\nIn addition to the miners, teams of slaves are used to lift water out of the workings using treadmill-powered waterwheels. Working in a mine like this is usually a deferred death sentence.\n\nThe wealth extracted by these mines is more than enough to make a handsome profit and pay for a constant influx of new slave labourers.
 
 {mines+1_eastern_desc_short}
-These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.
-
-{mines+1_parthia_desc}
-These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.\n\nIn addition to the miners, teams of slaves are used to lift water out of the workings using treadmill-powered waterwheels. Working in a mine like this is usually a deferred death sentence.\n\nThe wealth extracted by these mines is more than enough to make a handsome profit and pay for a constant influx of new slave labourers.
-
-{mines+1_parthia_desc_short}
 These deeper Mines exploit the wealth of a region more efficiently, allowing seams of ore to be dug out even below the water table.
 
 {mines+1_egyptian_desc}
@@ -1319,12 +1191,6 @@ The Academy is a training school where leaders can acquire the basic skills of g
 {academy_eastern_desc_short}
 The Academy is a training school where leaders can acquire the basic skills of government before they assume weighty responsibilities.
 
-{academy_parthia_desc}
-The Academy is a training school where leaders can acquire the basic skills of government before they assume the weighty responsibilities of command. Teaching ranges from the purely philosophical to the practical skills of waging war and producing good governance.\n\nTowns with an Academy will tend to be well run because of the pool of educated men that is produced.\n\nAn Academy can be upgraded as the settlement grows.
-
-{academy_parthia_desc_short}
-The Academy is a training school where leaders can acquire the basic skills of government before they assume weighty responsibilities.
-
 {academy_egyptian_desc}
 The Academy is a training school where leaders can acquire the basic skills of government before they assume the weighty responsibilities of command. Teaching ranges from the purely philosophical to the practical skills of waging war and producing good governance.\n\nTowns with an Academy will tend to be well run because of the pool of educated men that is produced.\n\nAn Academy can be upgraded as the settlement grows.
 
@@ -1368,12 +1234,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {stone_amphitheatre_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{stone_amphitheatre_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{stone_amphitheatre_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {stone_amphitheatre_egyptian_desc}
@@ -1421,12 +1281,6 @@ WARNING! This text should never appear on screen!
 {urban_amphitheatre_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{urban_amphitheatre_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{urban_amphitheatre_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {urban_amphitheatre_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -1470,12 +1324,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {great_amphitheatre_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{great_amphitheatre_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{great_amphitheatre_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {great_amphitheatre_egyptian_desc}
@@ -1523,12 +1371,6 @@ WARNING! This text should never appear on screen!
 {odeon_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{odeon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{odeon_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {odeon_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -1572,12 +1414,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {lyceum_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{lyceum_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{lyceum_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {lyceum_egyptian_desc}
@@ -1625,12 +1461,6 @@ An Execution Square does much to quell all rebellious spirits, and introduces a 
 {execution_square_eastern_desc_short}
 An Execution Square does much to quell all rebellious spirits. Fear is a splendid way of ensuring public loyalty.
 
-{execution_square_parthia_desc}
-An Execution Square does much to quell all rebellious spirits, and introduces a certain happiness with their lot to the common folk.\n\nFear is a splendid way of ensuring public loyalty and ensuring obedience. The loss of one or even a hundred people as object lessons in obedience is regrettable, but the remainder will learn that obedience to the established order brings... old age.\n\nAn Execution Square can be upgraded as the town grows and the need for further law and order measures becomes pressing.
-
-{execution_square_parthia_desc_short}
-An Execution Square does much to quell all rebellious spirits. Fear is a splendid way of ensuring public loyalty.
-
 {execution_square_egyptian_desc}
 An Execution Square does much to quell all rebellious spirits, and increase the harmony in any of noble Pharaoh's settlements. Where happiness cannot be enforced upon people, obedience to the will of the Pharaoh and his appointed servants can be made mandatory... upon pain of death.\n\nAn Execution Square can be upgraded as the town grows and the need for further law and order measures becomes pressing.
 
@@ -1674,12 +1504,6 @@ The Secret Police make sure that foolish and rebellious people simply disappear.
 The Secret Police make sure that foolish and rebellious people simply disappear. Peace, good order and tranquility are maintained. But sometimes it is not enough simply to execute naysayers and the disloyal. Those who question the order of things must be rooted out before they can cause their fellow subjects to become unhappy.\n\nThe Secret Police can be improved as the city grows in size.
 
 {secret_police_hq_eastern_desc_short}
-The Secret Police make sure that foolish and rebellious people simply disappear. Peace and tranquility are maintained.
-
-{secret_police_hq_parthia_desc}
-The Secret Police make sure that foolish and rebellious people simply disappear. Peace, good order and tranquility are maintained. But sometimes it is not enough simply to execute naysayers and the disloyal. Those who question the order of things must be rooted out before they can cause their fellow subjects to become unhappy.\n\nThe Secret Police can be improved as the city grows in size.
-
-{secret_police_hq_parthia_desc_short}
 The Secret Police make sure that foolish and rebellious people simply disappear. Peace and tranquility are maintained.
 
 {secret_police_hq_egyptian_desc}
@@ -1727,12 +1551,6 @@ Better even than the Secret Police are a network of informers. Far better to hav
 {secret_police_network_eastern_desc_short}
 Better even than the Secret Police are a network of informers. When anyone may be listening, the disloyal and rebellious tongue remains still.
 
-{secret_police_network_parthia_desc}
-Better even than the Secret Police are a network of informers. Far better to have hidden servants listening to the words - and watching for the deeds - that betray unhappiness. And when anyone might be a servant of the state, everyone watches: failure to report on disloyalty can be construed as disloyalty also. Good order is thus maintained and enhanced by these unsung heroes of the people: the rebellious tongue remains still when it may be cut off!
-
-{secret_police_network_parthia_desc_short}
-Better even than the Secret Police are a network of informers. When anyone may be listening, the disloyal and rebellious tongue remains still.
-
 {secret_police_network_egyptian_desc}
 When no-one can be sure who is listening, disloyal thoughts go unvoiced, and the harmony of Great Pharaoh's city is enhanced. When all the servants of Great Pharaoh - not just those he has appointed to such duties - police the words, thoughts and deeds of all, then good order is maintained and the pernicious weed of rebellion cannot grow unchecked.
 
@@ -1776,12 +1594,6 @@ Goods from the mysterious East are carried across the trackless wastes by a Cara
 Goods from the mysterious East are carried across the trackless wastes by a Caravan, increasing the trading wealth of the settlement. Exotic goods from as far away as the Indus and China reach the Mediterranean world carried on the backs of long camel trains. \n\nA Caravan can be upgraded as the settlement grows in size and importance.
 
 {caravan_eastern_desc_short}
-Goods from the mysterious East are carried across the trackless wastes by a Caravan, increasing the trading wealth of the settlement.
-
-{caravan_parthia_desc}
-Goods from the mysterious East are carried across the trackless wastes by a Caravan, increasing the trading wealth of the settlement. Exotic goods from as far away as the Indus and China reach the Mediterranean world carried on the backs of long camel trains. \n\nA Caravan can be upgraded as the settlement grows in size and importance.
-
-{caravan_parthia_desc_short}
 Goods from the mysterious East are carried across the trackless wastes by a Caravan, increasing the trading wealth of the settlement.
 
 {caravan_egyptian_desc}
@@ -1829,12 +1641,6 @@ A handful of nutmeg can make a man wealthy for the rest of his days. That the sp
 {frankincense_rd_eastern_desc_short}
 A handful of nutmeg can make a man wealthy for the rest of his days. The 'Spice Road' trade route  to the East brings some of this wealth to a town.
 
-{frankincense_rd_parthia_desc}
-A handful of nutmeg can make a man wealthy for the rest of his days. That the spice has to be carried across the world to gain these riches is unimportant. The 'Spice Road' trade route from the East brings some of this trading wealth to a town.\n\nSpices - thanks to their rarity - are a valuable, transportable commodity, and their use is a sign of sophistication and wealth. The demand for exotic tastes and flavours cannot be sated, even by the many camel loads of spice that make the risky journey West. \n\nA Spice Road trading route can be upgraded as the city increases in size. 
-
-{frankincense_rd_parthia_desc_short}
-A handful of nutmeg can make a man wealthy for the rest of his days. The 'Spice Road' trade route  to the East brings some of this wealth to a town.
-
 {frankincense_rd_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -1878,12 +1684,6 @@ WARNING! This text should never appear on screen!
 The 'Silk Road' trade route brings all the finest of goods from the distant East to a city. Silks are only part of the trade: rare spices, ivory, precious gems and all kinds of exotic items are carried in camel loads to be traded in the West. Men can grow fabulously rich on the proceeds of this trade, and their wealth trickles down through society. It can also be lucratively taxed, because 'protecting' all that wealth can be an expensive business!
 
 {silk_rd_eastern_desc_short}
-The 'Silk Road' trade route brings all the finest of goods from the distant East to a city. Men can grow fabulously rich on the proceeds of this trade.
-
-{silk_rd_parthia_desc}
-The 'Silk Road' trade route brings all the finest of goods from the distant East to a city. Silks are only part of the trade: rare spices, ivory, precious gems and all kinds of exotic items are carried in camel loads to be traded in the West. Men can grow fabulously rich on the proceeds of this trade, and their wealth trickles down through society. It can also be lucratively taxed, because 'protecting' all that wealth can be an expensive business!
-
-{silk_rd_parthia_desc_short}
 The 'Silk Road' trade route brings all the finest of goods from the distant East to a city. Men can grow fabulously rich on the proceeds of this trade.
 
 {silk_rd_egyptian_desc}
@@ -1931,12 +1731,6 @@ WARNING! This text should never appear on screen!
 {tavern_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{tavern_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{tavern_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {tavern_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -1980,12 +1774,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {bardic_circle_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{bardic_circle_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{bardic_circle_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {bardic_circle_egyptian_desc}
@@ -2033,12 +1821,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_battle_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_battle_shrine_egyptian_desc}
@@ -2090,12 +1872,6 @@ WARNING! This text should never appear on screen!
 {temple_of_battle_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_battle_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_battle_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2145,12 +1921,6 @@ WARNING! This text should never appear on screen!
 {temple_of_battle_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_battle_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_battle_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2196,12 +1966,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_battle_awesome_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_awesome_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_battle_awesome_temple_egyptian_desc}
@@ -2255,12 +2019,6 @@ This Shrine is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is 
 {temple_of_battleforge_shrine_eastern_desc_short}
 This Shrine is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
 
-{temple_of_battleforge_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battleforge_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_battleforge_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2309,12 +2067,6 @@ This Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is 
 
 {temple_of_battleforge_temple_eastern_desc_short}
 This Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
-
-{temple_of_battleforge_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battleforge_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_battleforge_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -2365,12 +2117,6 @@ This Large Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. 
 {temple_of_battleforge_large_temple_eastern_desc_short}
 This Large Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
 
-{temple_of_battleforge_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battleforge_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_battleforge_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2418,12 +2164,6 @@ This Shrine is dedicated to Tanit, the Queen of Heaven and Mother Goddess. Praye
 WARNING! This text should never appear on screen!
 
 {temple_of_farming_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_farming_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_farming_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_farming_shrine_egyptian_desc}
@@ -2477,12 +2217,6 @@ WARNING! This text should never appear on screen!
 {temple_of_farming_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_farming_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_farming_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_farming_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2534,12 +2268,6 @@ WARNING! This text should never appear on screen!
 {temple_of_farming_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_farming_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_farming_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_farming_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2589,12 +2317,6 @@ WARNING! This text should never appear on screen!
 {temple_of_farming_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_farming_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_farming_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_farming_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2642,12 +2364,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_shrine_egyptian}	Shrine to Isis
@@ -2701,12 +2417,6 @@ WARNING! This text should never appear on screen!
 {temple_of_fertility_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_fertility_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_fertility_temple_egyptian}	Temple to Isis
 
 {temple_of_fertility_temple_egyptian_desc}
@@ -2756,12 +2466,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_large_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_large_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_large_temple_egyptian}	Large Temple to Isis
@@ -2815,12 +2519,6 @@ WARNING! This text should never appear on screen!
 {temple_of_forge_shrine_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_forge_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_forge_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2870,12 +2568,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_forge_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_forge_temple_egyptian_desc}
@@ -2929,12 +2621,6 @@ WARNING! This text should never appear on screen!
 {temple_of_forge_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_forge_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_forge_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -2985,12 +2671,6 @@ This Shrine is dedicated to Anahit, once the Goddess of War, but also Goddess of
 
 {temple_of_fun_shrine_eastern_desc_short}
 This Shrine is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
-
-{temple_of_fun_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fun_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_fun_shrine_egyptian}	Shrine to Osiris
 
@@ -3045,12 +2725,6 @@ This Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of
 {temple_of_fun_temple_eastern_desc_short}
 This Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
 
-{temple_of_fun_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fun_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_fun_temple_egyptian}	Temple of Osiris
 
 {temple_of_fun_temple_egyptian_desc}
@@ -3103,12 +2777,6 @@ This Large Temple is dedicated to Anahit, once the Goddess of War, but also Godd
 
 {temple_of_fun_large_temple_eastern_desc_short}
 This Large Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
-
-{temple_of_fun_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fun_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_fun_large_temple_egyptian}	Large Temple of Osiris
 
@@ -3163,12 +2831,6 @@ This Shrine is dedicated to Zeus, the God of the Sky, of Kings and the Fate of N
 {temple_of_governors_shrine_eastern_desc_short}
 This Shrine is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. 
 
-{temple_of_governors_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_governors_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_governors_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3217,12 +2879,6 @@ This Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of N
 
 {temple_of_governors_temple_eastern_desc_short}
 This Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. 
-
-{temple_of_governors_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_governors_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_governors_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -3273,12 +2929,6 @@ This Large Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fat
 {temple_of_governors_large_temple_eastern_desc_short}
 This Large Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. 
 
-{temple_of_governors_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_governors_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_governors_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3326,12 +2976,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_healing_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_healing_shrine_egyptian}	Shrine to Imhotep
@@ -3387,12 +3031,6 @@ WARNING! This text should never appear on screen!
 {temple_of_healing_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_healing_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_healing_temple_egyptian}	Temple of Imhotep
 
 {temple_of_healing_temple_egyptian_desc}
@@ -3444,12 +3082,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_healing_large_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_large_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_healing_large_temple_egyptian}	Large Temple of Imhotep
@@ -3505,12 +3137,6 @@ WARNING! This text should never appear on screen!
 {temple_of_horse_shrine_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_horse_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_horse_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3556,12 +3182,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_horse_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_horse_temple_egyptian_desc}
@@ -3611,12 +3231,6 @@ WARNING! This text should never appear on screen!
 {temple_of_horse_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_horse_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_horse_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3662,12 +3276,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_hunting_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_hunting_shrine_egyptian_desc}
@@ -3719,12 +3327,6 @@ WARNING! This text should never appear on screen!
 {temple_of_hunting_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_hunting_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_hunting_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3774,12 +3376,6 @@ WARNING! This text should never appear on screen!
 {temple_of_hunting_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_hunting_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_hunting_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3827,12 +3423,6 @@ WARNING! This text should never appear on screen!
 {temple_of_hunting_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_hunting_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_hunting_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -3878,12 +3468,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_hunting_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_hunting_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_hunting_pantheon_egyptian_desc}
@@ -3937,12 +3521,6 @@ WARNING! This text should never appear on screen!
 {temple_of_justice_shrine_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_justice_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_justice_shrine_egyptian}	Shrine to Set
 
 {temple_of_justice_shrine_egyptian_desc}
@@ -3992,12 +3570,6 @@ This Temple is dedicated to Baal, the Ruler of the Universe and the Rider of the
 WARNING! This text should never appear on screen!
 
 {temple_of_justice_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_justice_temple_egyptian}	Temple of Set
@@ -4051,12 +3623,6 @@ WARNING! This text should never appear on screen!
 {temple_of_justice_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_justice_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_justice_large_temple_egyptian}	Large Temple of Set
 
 {temple_of_justice_large_temple_egyptian_desc}
@@ -4102,12 +3668,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_justice_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_justice_pantheon_egyptian}	Temple City
@@ -4157,12 +3717,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_law_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_law_shrine_egyptian}	Shrine to Horus
@@ -4216,12 +3770,6 @@ WARNING! This text should never appear on screen!
 {temple_of_law_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_law_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_law_temple_egyptian}	Temple of Horus
 
 {temple_of_law_temple_egyptian_desc}
@@ -4273,12 +3821,6 @@ WARNING! This text should never appear on screen!
 {temple_of_law_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_law_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_law_large_temple_egyptian}	Large Temple of Horus
 
 {temple_of_law_large_temple_egyptian_desc}
@@ -4326,12 +3868,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_law_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_law_pantheon_egyptian}	Temple City
@@ -4385,12 +3921,6 @@ This Shrine is dedicated to Armazd, the Father of all Gods, and the Creator of h
 {temple_of_leadership_shrine_eastern_desc_short}
 This Shrine is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.
 
-{temple_of_leadership_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_leadership_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_leadership_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -4441,12 +3971,6 @@ This Temple is dedicated to Armazd, the Father of all Gods, and the Creator of h
 
 {temple_of_leadership_temple_eastern_desc_short}
 This Temple is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.
-
-{temple_of_leadership_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_leadership_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_leadership_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -4499,12 +4023,6 @@ This Large Temple is dedicated to Armazd, the Father of all Gods, and the Creato
 {temple_of_leadership_large_temple_eastern_desc_short}
 This Large Temple is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.
 
-{temple_of_leadership_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_leadership_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_leadership_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -4552,12 +4070,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_leadership_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_leadership_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_leadership_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_leadership_pantheon_egyptian_desc}
@@ -4613,12 +4125,6 @@ This Shrine is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and 
 {temple_of_love_shrine_eastern_desc_short}
 This Shrine is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! 
 
-{temple_of_love_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_love_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_love_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -4669,12 +4175,6 @@ This Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and 
 
 {temple_of_love_temple_eastern_desc_short}
 This Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! 
-
-{temple_of_love_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_love_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_love_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -4727,12 +4227,6 @@ This Large Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beaut
 {temple_of_love_large_temple_eastern_desc_short}
 This Large Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! 
 
-{temple_of_love_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_love_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_love_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -4778,12 +4272,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_shrine_egyptian_desc}
@@ -4833,12 +4321,6 @@ WARNING! This text should never appear on screen!
 {temple_of_naval_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_naval_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_naval_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -4884,12 +4366,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_large_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_large_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_large_temple_egyptian_desc}
@@ -5102,12 +4578,6 @@ WARNING! This text should never appear on screen!
 {temple_of_trade_shrine_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_trade_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_trade_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5159,12 +4629,6 @@ This Temple is dedicated to Milqart, the son of Baal and the Ruler of the Underw
 WARNING! This text should never appear on screen!
 
 {temple_of_trade_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_trade_temple_egyptian_desc}
@@ -5220,12 +4684,6 @@ WARNING! This text should never appear on screen!
 {temple_of_trade_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_trade_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_trade_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5277,12 +4735,6 @@ WARNING! This text should never appear on screen!
 {temple_of_viking_shrine_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_viking_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_viking_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_viking_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5328,12 +4780,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_viking_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_viking_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_viking_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_viking_temple_egyptian_desc}
@@ -5383,12 +4829,6 @@ WARNING! This text should never appear on screen!
 {temple_of_viking_large_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_viking_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_viking_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_viking_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5434,12 +4874,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_horse_2_shrine_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_2_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_2_shrine_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_horse_2_shrine_egyptian_desc}
@@ -5489,12 +4923,6 @@ WARNING! This text should never appear on screen!
 {temple_of_horse_2_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_horse_2_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_2_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_horse_2_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5540,12 +4968,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_horse_2_large_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_2_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_2_large_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_horse_2_large_temple_egyptian_desc}
@@ -5660,12 +5082,6 @@ WARNING! This text should never appear on screen!
 {temple_of_battle_pantheon_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_battle_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battle_pantheon_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_battle_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5715,12 +5131,6 @@ This Awesome Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire
 {temple_of_battleforge_awesome_temple_eastern_desc_short}
 This Large Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
 
-{temple_of_battleforge_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_battleforge_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_battleforge_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5769,12 +5179,6 @@ This Shrine is dedicated to Herakles, the heroic demi-god and legendary founder 
 
 {temple_of_violence_shrine_eastern_desc_short}
 This Shrine is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. 
-
-{temple_of_violence_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_violence_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_violence_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -5829,12 +5233,6 @@ This Temple is dedicated to Herakles, the heroic demi-god and legendary founder 
 {temple_of_violence_temple_eastern_desc_short}
 This Temple is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. 
 
-{temple_of_violence_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_violence_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_violence_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -5887,12 +5285,6 @@ This Large Temple is dedicated to Herakles, the heroic demi-god and legendary fo
 
 {temple_of_violence_large_temple_eastern_desc_short}
 This Large Temple is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. 
-
-{temple_of_violence_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_violence_large_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_violence_large_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -6008,12 +5400,6 @@ Royal Barracks are extremely large and well-appointed, as might be expected of a
 {royal_barracks_eastern_desc_short}
 Royal Barracks are extremely large and well-appointed, as might be expected of a country's most important military facilities.
 
-{royal_barracks_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{royal_barracks_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {royal_barracks_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -6118,12 +5504,6 @@ Archery is a skill that takes time and patience to perfect: the strength to use 
 {archery_range_eastern_desc_short}
 Archers need space to practice constantly before, during and after being formed into military units. Good archers require strength as well as co-ordination.
 
-{archery_range_parthia_desc}
-Archery is a skill that takes time and patience to perfect: the strength to use a bow well is only acquired through long hours of practice. Most recruits know how to use a bow from hunting, but this is different from using a bow in battle. An Archery Range gives the space for bowmen to further develop their skills and practice group tactics.
-
-{archery_range_parthia_desc_short}
-Archers need space to practice constantly before, during and after being formed into military units. Good archers require strength as well as co-ordination.
-
 {archery_range_egyptian_desc}
 Archery is a skill that takes time and patience to perfect: the strength to use a bow well is only acquired through long hours of practice. Most recruits know how to use a bow from hunting, but this is different from using a bow in battle. An Archery Range gives the space for bowmen to further develop their skills and practice group tactics.
 
@@ -6167,12 +5547,6 @@ A Siege Engineer designs and builds large artillery weapons. He also makes sure 
 A Siege Engineer designs and builds the largest artillery weapons. Useful during siege operations, artillery can also be used to break up large formations in field battles. Their construction requires skilled work and an understanding of many engineering principles. In addition to making the weapons, a siege engineer also makes sure that the crew know enough to be a danger to the enemy and not themselves!\n\nThere is also a practice range allowing other missile armed troops to be trained here.
 
 {siege_engineer_eastern_desc_short}
-A Siege Engineer designs and builds large artillery weapons. He also makes sure that the crew know enough to be a danger to the enemy and not themselves.
-
-{siege_engineer_parthia_desc}
-A Siege Engineer designs and builds the largest artillery weapons. Useful during siege operations, artillery can also be used to break up large formations in field battles. Their construction requires skilled work and an understanding of many engineering principles. In addition to making the weapons, a siege engineer also makes sure that the crew know enough to be a danger to the enemy and not themselves!\n\nThere is also a practice range allowing other missile armed troops to be trained here.
-
-{siege_engineer_parthia_desc_short}
 A Siege Engineer designs and builds large artillery weapons. He also makes sure that the crew know enough to be a danger to the enemy and not themselves.
 
 {siege_engineer_egyptian_desc}
@@ -6224,14 +5598,6 @@ Trade flourishes where it is encouraged. In the hustle and bustle of the busy Ba
 Trade flourishes where it is encouraged. The Bazaar is a meeting place as much as a trading centre, and almost anything can be bought here, when the price is right. \n\nIn the hustle and bustle of this busy market anything and everything is for sale, even a man's secrets - or his sudden death!\n\nTrade can, of course, be taxed. It can also be improved when this building is upgraded.
 
 {forum_eastern_desc_short}
-Trade flourishes where it is encouraged. In the hustle and bustle of the busy Bazaar anything can be bought and sold, even a man's life. 
-
-{forum_parthia}	Bazaar
-
-{forum_parthia_desc}
-Trade flourishes where it is encouraged. The Bazaar is a meeting place as much as a trading centre, and almost anything can be bought here, when the price is right. \n\nIn the hustle and bustle of this busy market anything and everything is for sale, even a man's secrets - or his sudden death!\n\nTrade can, of course, be taxed. It can also be improved when this building is upgraded.
-
-{forum_parthia_desc_short}
 Trade flourishes where it is encouraged. In the hustle and bustle of the busy Bazaar anything can be bought and sold, even a man's life. 
 
 {forum_egyptian}	Bazaar
@@ -6289,14 +5655,6 @@ Damming rivers and using waterwheels to raise water to fields is labour intensiv
 {farms+3_eastern_desc_short}
 Extensive irrigation systems improve farm production, creating larger surpluses that can be sent to support a growing urban population.
 
-{farms+3_parthia}	Irrigation
-
-{farms+3_parthia_desc}
-Damming rivers and using waterwheels to raise water to fields is labour intensive, but the pay offs can be spectacular. In some parts of the world it's even possible to gather more than one harvest a year when irrigation is used. Overall, extensive irrigation systems improve all farm production, creating even larger surpluses that can be sent to support a growing urban population.
-
-{farms+3_parthia_desc_short}
-Extensive irrigation systems improve farm production, creating larger surpluses that can be sent to support a growing urban population.
-
 {farms+3_egyptian}	Irrigation
 
 {farms+3_egyptian_desc}
@@ -6348,12 +5706,6 @@ WARNING! This text should never appear on screen!
 {temple_of_farming_pantheon_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_farming_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_farming_pantheon_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_farming_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -6399,12 +5751,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_awesome_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_awesome_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_awesome_temple_egyptian}	Awesome Temple to Isis
@@ -6456,12 +5802,6 @@ WARNING! This text should never appear on screen!
 {temple_of_governors_pantheon_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_governors_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_governors_pantheon_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_governors_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -6509,12 +5849,6 @@ This Awesome Temple is dedicated to Baal, the Ruler of the Universe and the Ride
 WARNING! This text should never appear on screen!
 
 {temple_of_justice_awesome_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_justice_awesome_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_justice_awesome_temple_egyptian}	Awesome Temple of Set
@@ -6566,12 +5900,6 @@ WARNING! This text should never appear on screen!
 {temple_of_victory_shrine_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_victory_shrine_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_shrine_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_victory_shrine_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -6621,12 +5949,6 @@ WARNING! This text should never appear on screen!
 {temple_of_victory_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_victory_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_victory_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -6674,12 +5996,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_victory_large_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_large_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_large_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_victory_large_temple_egyptian_desc}
@@ -6743,12 +6059,6 @@ Cavalry Stables produce the superior horses that are needed to train horsemen fo
 {cavalry_barracks_eastern_desc_short}
 Cavalry Stables produce the superior horses that are then used when advanced cavalrymen are trained. This building can be upgraded further when the settlement grows.
 
-{cavalry_barracks_parthia_desc}
-Cavalry Stables produce the superior horses that are needed to train horsemen for more advanced kinds of units. They include training yards where superior horsemanship can be taught to the men, and the horses schooled to face the noise and terror of battle (something that does not come naturally to them).\n\nThis building can be upgraded further when the settlement grows.
-
-{cavalry_barracks_parthia_desc_short}
-Cavalry Stables produce the superior horses that are then used when advanced cavalrymen are trained. This building can be upgraded further when the settlement grows.
-
 {cavalry_barracks_egyptian_desc}
 Cavalry Stables produce the superior horses that are needed to train horsemen for more advanced kinds of units. They include training yards where superior horsemanship can be taught to the men, and the horses schooled to face the noise and terror of battle (something that does not come naturally to them).\n\nThis building can be upgraded further when the settlement grows.
 
@@ -6796,14 +6106,6 @@ A Merchants' Quarter is the commercial hub of many provinces. Trade can do littl
 A Merchants' Quarter is the commercial hub of many provinces. Anything imaginable is available to a man with gold in his purse.\n\nTrade can do little else but flourish when a complete section of a city is turned over to the merchant classes. From their villas and warehouses the merchants control all trade within a region, bringing in riches and exotic goods in the process. That trade can be taxed (to the hilt, if need be) is part of the cost of doing business. 
 
 {curia_eastern_desc_short}
-A Merchants' Quarter is the commercial hub of many provinces. Trade can do little else but flourish when a whole city section is turned over to the merchant classes. 
-
-{curia_parthia}	Merchants' Quarter
-
-{curia_parthia_desc}
-A Merchants' Quarter is the commercial hub of many provinces. Anything imaginable is available to a man with gold in his purse.\n\nTrade can do little else but flourish when a complete section of a city is turned over to the merchant classes. From their villas and warehouses the merchants control all trade within a region, bringing in riches and exotic goods in the process. That trade can be taxed (to the hilt, if need be) is part of the cost of doing business. 
-
-{curia_parthia_desc_short}
 A Merchants' Quarter is the commercial hub of many provinces. Trade can do little else but flourish when a whole city section is turned over to the merchant classes. 
 
 {curia_egyptian}	Merchants' Quarter
@@ -6855,12 +6157,6 @@ A blacksmith provides superior quality weaponry for any troops trained in the se
 {blacksmith_eastern_desc_short}
 A blacksmith provides superior quality weaponry for any troops trained in the settlement. This building can be developed further.
 
-{blacksmith_parthia_desc}
-A blacksmith provides superior quality weaponry for any troops trained in the settlement. His skills in metal working are exceptional, far beyond those of ordinary smiths who make agricultural implements.\n\nHe is an important man in the community, as good weapons are always valued by the men who have to use them. A Blacksmith who can make a strong sword that won't break or bend in combat is a great asset to his people.
-
-{blacksmith_parthia_desc_short}
-A blacksmith provides superior quality weaponry for any troops trained in the settlement. This building can be developed further.
-
 {blacksmith_egyptian_desc}
 A blacksmith provides superior quality weaponry for any troops trained in the settlement. His skills in metal working are exceptional, far beyond those of ordinary smiths who make agricultural implements.\n\nHe is an important man in the community, as good weapons are always valued by the men who have to use them. A Blacksmith who can make a strong sword that won't break or bend in combat is a great asset to his people.
 
@@ -6906,12 +6202,6 @@ These minor roads have been made usable by the military only where necessary, an
 {roads_eastern_desc_short}
 Roads are vital to territorial defence, allowing armies to move to meet any threat.
 
-{roads_parthia_desc}
-These minor roads have been made usable by the military only where necessary, and for the most part they are ancient tracks worn into the landscape, created over generations. \n\nMilitary engineers improve these ancient ways a little with simple bridges, a stony roadbed in marshy spots and by cutting back vegetation. They are not ideal but are certainly better than nothing.
-
-{roads_parthia_desc_short}
-Roads are vital to territorial defence, allowing armies to move to meet any threat.
-
 {roads_egyptian_desc}
 These minor roads have been made usable by the military only where necessary, and for the most part they are ancient tracks worn into the landscape, created over generations. \n\nMilitary engineers improve these ancient ways a little with simple bridges, a stony roadbed in marshy spots and by cutting back vegetation. They are not ideal but are certainly better than nothing.
 
@@ -6955,12 +6245,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fertility_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_fertility_pantheon_egyptian}	Temple City
@@ -7012,12 +6296,6 @@ WARNING! This text should never appear on screen!
 {temple_of_forge_pantheon_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_forge_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_pantheon_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_forge_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -7065,12 +6343,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_fun_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_fun_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fun_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_fun_pantheon_egyptian}	Temple City
@@ -7124,12 +6396,6 @@ WARNING! This text should never appear on screen!
 {temple_of_healing_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_healing_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_healing_awesome_temple_egyptian}	Awesome Temple of Imhotep
 
 {temple_of_healing_awesome_temple_egyptian_desc}
@@ -7179,12 +6445,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_healing_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_healing_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_healing_pantheon_egyptian}	Temple City
@@ -7238,12 +6498,6 @@ WARNING! This text should never appear on screen!
 {temple_of_horse_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_horse_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_horse_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -7289,12 +6543,6 @@ WARNING! This text should never appear on screen!
 {temple_of_horse_pantheon_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_horse_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_horse_pantheon_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_horse_pantheon_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -7338,12 +6586,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_love_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_love_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_love_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_love_pantheon_egyptian_desc}
@@ -7448,12 +6690,6 @@ WARNING! This text should never appear on screen!
 {temple_of_trade_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_trade_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_trade_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -7503,12 +6739,6 @@ WARNING! This text should never appear on screen!
 {temple_of_victory_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_victory_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_victory_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -7554,12 +6784,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_victory_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_victory_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_victory_pantheon_egyptian_desc}
@@ -7633,12 +6857,6 @@ A wall of logs around a settlement gives a comforting sense of security, but it 
 {wooden_pallisade_eastern_desc_short}
 A wall of logs around a settlement gives some security, but it will not deter or delay attackers for very long.
 
-{wooden_pallisade_parthia_desc}
-A wall of logs around a settlement gives a comforting sense of security, but it cannot delay attackers for very long. It's enough to keep livestock from straying at night. That said a palisade like this is cheap and easy to erect even for an unskilled work force. It will help make a settlement feel like a homely place where people live, work and prosper.
-
-{wooden_pallisade_parthia_desc_short}
-A wall of logs around a settlement gives some security, but it will not deter or delay attackers for very long.
-
 {wooden_pallisade_egyptian_desc}
 A wall of logs around a settlement gives a comforting sense of security, but it cannot delay attackers for very long. It's enough to keep livestock from straying at night. That said a palisade like this is cheap and easy to erect even for an unskilled work force. It will help make a settlement feel like a homely place where people live, work and prosper.
 
@@ -7682,12 +6900,6 @@ This is the basic building required for training all cavalry units. Stables can 
 This is the basic building required for training all cavalry units. Stables can be improved as the settlement grows so that a wider range of cavalry types - that require different types of horse - can be trained. \n\nHorses are far too valuable to be used for farming (oxen, donkeys and slaves are used instead), and are bred for war, not work. Just about every horse-using nation is highly stratified, as horses are expensive to rear and keep. Having the skills to ride one is a mark of belonging to the aristocracy.
 
 {stables_eastern_desc_short}
-This is the basic building required for training all cavalry units. Stables can be improved as the settlement grows.
-
-{stables_parthia_desc}
-This is the basic building required for training all cavalry units. Stables can be improved as the settlement grows so that a wider range of cavalry types - that require different types of horse - can be trained. \n\nHorses are far too valuable to be used for farming (oxen, donkeys and slaves are used instead), and are bred for war, not work. Just about every horse-using nation is highly stratified, as horses are expensive to rear and keep. Having the skills to ride one is a mark of belonging to the aristocracy.
-
-{stables_parthia_desc_short}
 This is the basic building required for training all cavalry units. Stables can be improved as the settlement grows.
 
 {stables_egyptian}	Stables
@@ -7739,12 +6951,6 @@ An armourer works closely with a blacksmith, and produces fine armour to match t
 {smiths_workshop_eastern_desc_short}
 An armourer works closely with a blacksmith, and produces fine armour to match the smith's superior weapons.
 
-{smiths_workshop_parthia_desc}
-An armourer works closely with a blacksmith, and produces fine armour to match the smith's weaponry. His work is highly valued by military men - well-made armour can often mean the difference between life and death! When his skills are added to those of a blacksmith in producing weapons, the armourer ensures that any troops trained in this settlement will be equipped to a very high standard. 
-
-{smiths_workshop_parthia_desc_short}
-An armourer works closely with a blacksmith, and produces fine armour to match the smith's superior weapons.
-
 {smiths_workshop_egyptian_desc}
 An armourer works closely with a blacksmith, and produces fine armour to match the smith's weaponry. His work is highly valued by military men - well-made armour can often mean the difference between life and death! When his skills are added to those of a blacksmith in producing weapons, the armourer ensures that any troops trained in this settlement will be equipped to a very high standard. 
 
@@ -7788,12 +6994,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_trade_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_trade_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_trade_pantheon_egyptian_desc}
@@ -7918,12 +7118,6 @@ A Scriptorium holds many laboriously copied books, and the learning to be gained
 {scriptorium_eastern_desc_short}
 A Scriptorium holds many laboriously copied books, and the learning to be gained here can improve the skills of present and future leaders alike.
 
-{scriptorium_parthia_desc}
-A Scriptorium holds many laboriously copied books, and the learning to be gained here can improve the skills of present and future leaders alike. Built upon the solid educational foundations of an Academy, this place brings together many teachers and thinkers who, through cogent argument and disputation, impart knowledge to all those willing to listen and learn.\n\nA city with a Scriptorium will tend to be efficiently governed because of the educated men that are drawn here.\n\nThis building can be upgraded as the settlement grows.
-
-{scriptorium_parthia_desc_short}
-A Scriptorium holds many laboriously copied books, and the learning to be gained here can improve the skills of present and future leaders alike.
-
 {scriptorium_egyptian_desc}
 A Scriptorium holds many laboriously copied books, and the learning to be gained here can improve the skills of present and future leaders alike. Built upon the solid educational foundations of an Academy, this place brings together many teachers and thinkers who, through cogent argument and disputation, impart knowledge to all those willing to listen and learn.\n\nA city with a Scriptorium will tend to be efficiently governed because of the educated men that are drawn here.\n\nThis building can be upgraded as the settlement grows.
 
@@ -7970,12 +7164,6 @@ This Awesome Temple is dedicated to Anahit, once the Goddess of War, but also Go
 
 {temple_of_fun_awesome_temple_eastern_desc_short}
 This Aswesome Temple is dedicated to Anahit, once the Goddess of War, but also Goddess of Fertility and Birth. She is the chief of all the Armenian pantheon.
-
-{temple_of_fun_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_fun_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_fun_awesome_temple_egyptian}	Awesome Temple of Osiris
 
@@ -8030,12 +7218,6 @@ This Awesome Temple is dedicated to Zeus, the God of the Sky, of Kings and the F
 {temple_of_governors_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. 
 
-{temple_of_governors_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_governors_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_governors_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -8084,12 +7266,6 @@ This Awesome Temple is dedicated to Armazd, the Father of all Gods, and the Crea
 
 {temple_of_leadership_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Armazd, the Father of all Gods, and the Creator of heaven and earth. He is the source of all light and growth.
-
-{temple_of_leadership_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_leadership_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
 
 {temple_of_leadership_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -8142,12 +7318,6 @@ This Awesome Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Bea
 {temple_of_love_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Aphrodite, the Olympian Goddess of Love, Beauty and Procreation. If it's rampant, naughty and fun, she's the goddess of it! 
 
-{temple_of_love_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_love_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_love_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -8193,12 +7363,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_pantheon_egyptian_desc}
@@ -8250,12 +7414,6 @@ This Awesome Temple is dedicated to Herakles, the heroic demi-god and legendary 
 {temple_of_violence_awesome_temple_eastern_desc_short}
 This Awesome Temple is dedicated to Herakles, the heroic demi-god and legendary founder of the Macedonia royal household. He is the son of Zeus and a mortal woman, Alcmene. 
 
-{temple_of_violence_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_violence_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_violence_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
 
@@ -8303,12 +7461,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_violence_pantheon_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_violence_pantheon_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_violence_pantheon_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_violence_pantheon_egyptian_desc}
@@ -8500,12 +7652,6 @@ Learning to skirmish effectively requires an open space where lightly armed and 
 {practice_field_eastern_desc_short}
 The arts of skirmishing are not the same as fighting in a close battle line. Space is needed to train troops to do this effectively.
 
-{practice_field_parthia_desc}
-Learning to skirmish effectively requires an open space where lightly armed and armoured troops can safely practice with missile weapons. There are also the tactics of movement and disengagement to be practiced, which also needs more space than a simple yard for close-order drills.
-
-{practice_field_parthia_desc_short}
-The arts of skirmishing are not the same as fighting in a close battle line. Space is needed to train troops to do this effectively.
-
 {practice_field_egyptian_desc}
 Learning to skirmish effectively requires an open space where lightly armed and armoured troops can safely practice with missile weapons. There are also the tactics of movement and disengagement to be practiced, which also needs more space than a simple yard for close-order drills.
 
@@ -8549,12 +7695,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_forge_awesome_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_forge_awesome_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_forge_awesome_temple_egyptian_desc}
@@ -8606,12 +7746,6 @@ WARNING! This text should never appear on screen!
 {temple_of_law_awesome_temple_eastern_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_law_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_law_awesome_temple_parthia_desc_short}
-WARNING! This text should never appear on screen!
-
 {temple_of_law_awesome_temple_egyptian}	Awesome Temple of Horus
 
 {temple_of_law_awesome_temple_egyptian_desc}
@@ -8659,12 +7793,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_awesome_temple_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_awesome_temple_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{temple_of_naval_awesome_temple_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {temple_of_naval_awesome_temple_egyptian_desc}
@@ -8728,12 +7856,6 @@ A rough wooden wall is a better defence than a palisade of stakes, but it is sti
 {wooden_wall_eastern_desc_short}
 A rough wooden wall is a better defence than a crude palisade, but it is not likely to present much of a problem to attackers.
 
-{wooden_wall_parthia_desc}
-A rough wooden wall is a better defence than a palisade of stakes, but it is still not much of a problem to organised attackers. It will delay attackers getting into the settlement, and so is a good barrier against surprise raids. More organised attackers will, however, break the wall down sooner rather than later.\n\nThe wall also keeps locals and their livestock safe at night and gives a sense of permanence to a town. These walls are easy to construct with an unskilled workforce.  Improving the walls also adds grain stores to extend the time a settlement can resist a siege.
-
-{wooden_wall_parthia_desc_short}
-A rough wooden wall is a better defence than a crude palisade, but it is not likely to present much of a problem to attackers.
-
 {wooden_wall_egyptian_desc}
 A rough wooden wall is a better defence than a palisade of stakes, but it is still not much of a problem to organised attackers. It will delay attackers getting into the settlement, and so is a good barrier against surprise raids. More organised attackers will, however, break the wall down sooner rather than later.\n\nThe wall also keeps the Pharaoh's servants and their livestock safe at night and gives a sense of permanence to a town. These walls are easy to construct with an unskilled workforce.  Improving the walls also adds grain stores to extend the time a settlement can resist a siege.
 
@@ -8777,12 +7899,6 @@ Stone walls are fairly substantial and give a degree of security to a town, but 
 Stone walls are fairly substantial but truly determined attackers will be able to breach them. With towers and gatehouses, these are formidable defences but not completely impregnable. \n\nThe need for security - and national pride - will mean that stone walls are desirable. These are defences that can protect the local people and offer protection to rural folk who flee from raiders.  Improving the walls also adds grain stores to extend the time a settlement can resist a siege.
 
 {stone_wall_eastern_desc_short}
-Stone walls are fairly substantial and give a degree of security to a town, but truly determined attackers will be able to breach them.
-
-{stone_wall_parthia_desc}
-Stone walls are fairly substantial but truly determined attackers will be able to breach them. With towers and gatehouses, these are formidable defences but not completely impregnable. \n\nThe need for security - and civic pride - will mean that stone walls are desirable. These are defences that can protect the local people and offer protection to rural folk who flee from raiders.  Improving the walls also adds grain stores to extend the time a settlement can resist a siege.
-
-{stone_wall_parthia_desc_short}
 Stone walls are fairly substantial and give a degree of security to a town, but truly determined attackers will be able to breach them.
 
 {stone_wall_egyptian_desc}
@@ -8830,12 +7946,6 @@ Large stone walls are substantial with strong towers and gatehouses. Even organi
 {large_stone_wall_eastern_desc_short}
 Large walls are substantial, and even organised enemies will have a hard time scaling them or breaking into the city.
 
-{large_stone_wall_parthia_desc}
-Large stone walls are substantial with strong towers and gatehouses. Even organised enemies will have a hard time scaling them or breaking into the city and will need time and specialised siege equipment to succeed.\n\nImproving the walls also adds grain stores to extend the time a settlement can resist a siege. The wall is, however, expensive and time consuming to construct. Usually only prestigious or rich towns are worth protecting, they are monuments to the governors who build them!
-
-{large_stone_wall_parthia_desc_short}
-Large walls are substantial, and even organised enemies will have a hard time scaling them or breaking into the city.
-
 {large_stone_wall_egyptian_desc}
 Large stone walls are substantial with strong towers and gatehouses. Even organised enemies will have a hard time scaling them or breaking into the city and will need time and specialised siege equipment to succeed.\n\nImproving the walls also adds grain stores to extend the time a settlement can resist a siege. The wall is, however, expensive and time consuming to construct. Usually only prestigious or rich towns are worth protecting, they are monuments to the governors who build them!
 
@@ -8879,12 +7989,6 @@ These awesome walls will present all attackers with an apparently impregnable ba
 These awesome walls are an extremely strong array of towers, gatehouses and battlements. They are difficult to breach - almost impossible without the right equipment - and a severe stumbling block to the plans of any conqueror. Raiding armies will sometimes turn back rather than futilely waste their time in front of such defences!\n\nImproving the walls also adds grain stores to extend the time a settlement can resist a siege. Construction of these walls is slow and immensely expensive, making them unlikely to be used except to protect capitals and cities of enormous wealth and importance.
 
 {epic_stone_wall_eastern_desc_short}
-These awesome walls will present all attackers with an apparently impregnable barrier when assaulting a protected city.
-
-{epic_stone_wall_parthia_desc}
-These awesome walls are an extremely strong array of towers, gatehouses and battlements. They are difficult to breach - almost impossible without the right equipment - and a severe stumbling block to the plans of any conqueror. Raiding armies will sometimes turn back rather than futilely waste their time in front of such defences!\n\nImproving the walls also adds grain stores to extend the time a settlement can resist a siege. Construction of these walls is slow and immensely expensive, making them unlikely to be used except to protect capitals and cities of enormous wealth and importance.
-
-{epic_stone_wall_parthia_desc_short}
 These awesome walls will present all attackers with an apparently impregnable barrier when assaulting a protected city.
 
 {epic_stone_wall_egyptian_desc}
@@ -8999,14 +8103,6 @@ An improvement on slash-and-burn farming around a settlement, land clearances al
 {farms_eastern_desc_short}
 An improvement on slash-and-burn farming around a settlement, land clearances allow a surplus of food and encourage growth.
 
-{farms_parthia}	Land Clearance
-
-{farms_parthia_desc}
-An improvement on slash-and-burn farming around a settlement, land clearances allow a surplus of food and encourage population growth.\n\nSubsistence farming, where people can only just feed themselves and their families, does not free people to do anything more than scrabble for a living. However, if agriculture improves even marginally, there will be growth in a settlement.\n\nThis kind of farming can be upgraded as the settlement grows.
-
-{farms_parthia_desc_short}
-An improvement on slash-and-burn farming around a settlement, land clearances allow a surplus of food and encourage growth.
-
 {farms_egyptian}	Land Clearance
 
 {farms_egyptian_desc}
@@ -9062,14 +8158,6 @@ Communal farming produces a surplus that goes to market and this always ends up 
 Once slash-and-burn agriculture has worn out the land, one response is for farming communities to organise, and work collectively. Communal farming produces a surplus through minor economies of scale: tools and resources are pooled, and everyone works as a team to gather the harvest. Individual failures are minimised by these methods, and the increased output adds to population growth.\n\nThis kind of farming can be upgraded as the settlement grows.
 
 {farms+1_eastern_desc_short}
-Communal farming produces a surplus that goes to market and this always ends up in a settlement, encouraging growth. People won't stay where there isn't enough to eat!
-
-{farms+1_parthia}	Communal Farming
-
-{farms+1_parthia_desc}
-Once slash-and-burn agriculture has worn out the land, one response is for farming communities to organise, and work collectively. Communal farming produces a surplus through minor economies of scale: tools and resources are pooled, and everyone works as a team to gather the harvest. Individual failures are minimised by these methods, and the increased output adds to population growth.\n\nThis kind of farming can be upgraded as the settlement grows.
-
-{farms+1_parthia_desc_short}
 Communal farming produces a surplus that goes to market and this always ends up in a settlement, encouraging growth. People won't stay where there isn't enough to eat!
 
 {farms+1_egyptian}	Communal Farming
@@ -9129,14 +8217,6 @@ Crop rotation and basic land management techniques stop farms from becoming rapi
 {farms+2_eastern_desc_short}
 Crop rotation and basic land management techniques stop farms from becoming rapidly exhausted; yields and surpluses improve as a result.
 
-{farms+2_parthia}	Crop Rotation
-
-{farms+2_parthia_desc}
-Crop rotation and basic land management techniques stop farms from becoming rapidly exhausted. By changing field usage every year and allowing land to lie fallow or be used as pasture, the goodness of the land is slowly restored. Crop yields and surpluses improve as a result, and the increased output adds to population growth. Slave labour also helps, as peasant farmers generally keep more produce for themselves.\n\nThis kind of farming can be upgraded as the settlement grows.
-
-{farms+2_parthia_desc_short}
-Crop rotation and basic land management techniques stop farms from becoming rapidly exhausted; yields and surpluses improve as a result.
-
 {farms+2_egyptian}	Crop Rotation
 
 {farms+2_egyptian_desc}
@@ -9188,12 +8268,6 @@ The Great School attracts wise teachers, keen to pass on their learning to all p
 {ludus_magnus_eastern_desc_short}
 The Great School attracts wise teachers, who can pass on their learning to all potential leaders who know that greatness is found in the mind as well as the sword-arm.
 
-{ludus_magnus_parthia_desc}
-The Great School attracts wise teachers, keen to pass on their learning to all potential leaders who know that greatness is found in the mind as well as the sword-arm. This kind of educational establishment is only found in the largest cities of an empire and represents the very finest training ground for the ruling elite. Individuals trained here will gain a solid understanding of all human wisdom, including the arts of war, statesmanship and good government.\n\nA great city with a Ludus Magna will tend to be superbly run because of the talented and educated men that can always be found here.
-
-{ludus_magnus_parthia_desc_short}
-The Great School attracts wise teachers, who can pass on their learning to all potential leaders who know that greatness is found in the mind as well as the sword-arm.
-
 {ludus_magnus_egyptian_desc}
 The Great School attracts wise teachers, keen to pass on their learning to all potential leaders who know that greatness is found in the mind as well as the sword-arm. This kind of educational establishment is only found in the largest cities of an empire and represents the very finest training ground for the ruling elite. Individuals trained here will gain a solid understanding of all human wisdom, including the arts of war, statesmanship and good government.\n\nA great city with a Ludus Magna will tend to be superbly run because of the talented and educated men that can always be found here.
 
@@ -9237,12 +8311,6 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {theatre_eastern_desc_short}
-WARNING! This text should never appear on screen!
-
-{theatre_parthia_desc}
-WARNING! This text should never appear on screen!
-
-{theatre_parthia_desc_short}
 WARNING! This text should never appear on screen!
 
 {theatre_egyptian_desc}
