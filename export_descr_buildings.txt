@@ -1166,7 +1166,7 @@ building port_buildings
                 shipwright
             }
         }
-        shipwright requires factions { barbarian, carthage, eastern, egyptian, greek, roman, } 
+        shipwright requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
         {
             capability
             {
@@ -1192,7 +1192,7 @@ building port_buildings
                 dockyard
             }
         }
-        dockyard requires factions { carthage, eastern, greek, roman, } 
+        dockyard requires factions { carthaginian, eastern, egyptian, greek, roman, } 
         {
             capability
             {
