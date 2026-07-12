@@ -3993,7 +3993,7 @@ Trait BattleScarred
 
 ;------------------------------------------
 Trait GoodConspirator
-    Characters spy, assassin
+    Characters assassin
     AntiTraits BadConspirator
 
     Level Plotter
@@ -4021,7 +4021,7 @@ Trait GoodConspirator
 
 ;------------------------------------------
 Trait BadConspirator
-    Characters spy, assassin
+    Characters assassin
     AntiTraits GoodConspirator
 
     Level Foolish_Conspirator
