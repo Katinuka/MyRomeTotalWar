@@ -614,7 +614,7 @@ building equestrian
                 hippodrome
             }
         }
-        hippodrome requires factions { carthage, eastern, egyptian, greek_cities, macedon, seleucid, roman, } 
+        hippodrome requires factions { carthaginian, eastern, egyptian, greek_cities, macedon, seleucid, roman, } 
         {
             capability
             {
@@ -640,6 +640,7 @@ building equestrian
                 recruit "carthaginian medium cavalry"  0  requires factions { carthaginian, } 
                 recruit "carthaginian elephant forest"  0  requires factions { carthage, }  and resource elephants
                 recruit "carthaginian elephant african"  0  requires factions { carthage, }  and resource elephants
+				recruit "merc elephants"  0  requires factions { numidia, }  and resource elephants 
                 recruit "numidian camel riders"  0  requires factions { numidia, }  and resource camels
                 recruit "east cavalry"  0  requires factions { pontus, } 
                 recruit "east horse archer"  0  requires factions { armenia, parthia, } 
@@ -703,6 +704,7 @@ building equestrian
                 recruit "carthaginian medium cavalry"  0  requires factions { carthaginian, } 
                 recruit "carthaginian elephant forest"  0  requires factions { carthage, }  and resource elephants
                 recruit "carthaginian elephant african"  0  requires factions { carthage, }  and resource elephants
+				recruit "merc elephants"  0  requires factions { numidia, }  and resource elephants 
                 recruit "carthaginian elephant african cataphract"  0  requires factions { carthage, }  and resource elephants
                 recruit "numidian camel riders"  0  requires factions { numidia, }  and resource camels
                 recruit "carthaginian royal cavalry"  0  requires factions { carthage, } 
