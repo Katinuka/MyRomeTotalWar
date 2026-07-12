@@ -1351,7 +1351,7 @@ building hinterland_farms
                 farms+4
             }
         }
-        farms+4 requires factions { carthaginian, egyptian, roman, } 
+        farms+4 requires factions { carthaginian, eastern, egyptian, greek, roman, } 
         {
             capability
             {
