@@ -860,6 +860,7 @@ building missiles
                 recruit "greek peltast"  0  requires factions { greek, } 
                 recruit "greek archer"  0  requires factions { greek, } 
                 recruit "greek ballista"  0  requires factions { macedon, greek_cities, } 
+				recruit "merc cretan archers"  0  requires factions { greek, } 
                 recruit "greek heavy peltast"  0  requires factions { greek_cities, } 
                 recruit "greek onager"  0  requires factions { greek, } 
                 recruit "roman velite"  0  requires factions { roman, }  and not marian_reforms 
@@ -914,6 +915,7 @@ building missiles
                 recruit "greek peltast"  0  requires factions { greek, } 
                 recruit "greek archer"  0  requires factions { greek, } 
                 recruit "greek ballista"  0  requires factions { macedon, greek_cities, } 
+				recruit "merc cretan archers"  0  requires factions { greek, } 
                 recruit "greek heavy peltast"  0  requires factions { greek_cities, } 
                 recruit "greek onager"  0  requires factions { greek, } 
                 recruit "greek heavy onager"  0  requires factions { macedon, greek_cities, } 
