@@ -5393,10 +5393,10 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {royal_barracks_carthage_desc}
-WARNING! This text should never appear on screen!
+Royal Barracks are extremely large and well-appointed, as might be expected of a country's most important military buildings. They include extensive drill and training facilities: the very best that can be provided. The barracks themselves are deliberately imposing to show the world the true might of the state.\n\nThe soldiers live relatively well, although discipline is hard. As a result, the elite trained here are expected to be the finest, bravest soldiers that are sent into battle.
 
 {royal_barracks_carthage_desc_short}
-WARNING! This text should never appear on screen!
+Royal Barracks are extremely large and well-appointed, as might be expected of a country's most important military facilities.
 
 {royal_barracks_eastern_desc}
 Royal Barracks are extremely large and well-appointed, as might be expected of a country's most important military buildings. They include extensive drill and training facilities: the very best that can be provided. The barracks themselves are deliberately imposing to show the world the true might of the state.\n\nThe soldiers live relatively well, although discipline is hard. As a result, the elite trained here are expected to be the finest, bravest soldiers that are sent into battle.
