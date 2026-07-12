@@ -1387,7 +1387,7 @@ building hinterland_roads
                 paved_roads
             }
         }
-        paved_roads requires factions { barbarian, carthaginian, egyptian, greek, roman, } 
+        paved_roads requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
         {
             capability
             {

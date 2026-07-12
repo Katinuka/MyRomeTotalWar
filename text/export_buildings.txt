@@ -1110,10 +1110,10 @@ These improved roads allow armies to assemble and then meet approaching enemies 
 These improved roads allow armies to assemble swiftly and then march great distances to meet approaching enemies.
 
 {paved_roads_eastern_desc}
-WARNING! This text should never appear on screen!
+These improved roads allow armies to assemble and then meet approaching enemies swiftly. Paved roads are built for military use first and foremost. They are carefully surveyed and constructed, often including cuttings and extensive causeways. They will not degenerate into muddy rivers in winter or dusty tracks in summer, no matter how hard the usage. 
 
 {paved_roads_eastern_desc_short}
-WARNING! This text should never appear on screen!
+These improved roads allow armies to assemble swiftly and then march great distances to meet approaching enemies.
 
 {paved_roads_parthia_desc}
 WARNING! This text should never appear on screen!
