@@ -5137,7 +5137,7 @@ WARNING! This text should never appear on screen!
 This Awesome Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.It is in this capacity that he is honoured by warriors. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion. \n\nThe Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_battleforge_awesome_temple_eastern_desc_short}
-This Large Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
+This Awesome Temple is dedicated to Vahagan, the God of Thunder, Clouds and Fire. He is a metalworker and smith to the other gods, a maker of weapons.
 
 {temple_of_battleforge_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
@@ -5867,7 +5867,7 @@ WARNING! This text should never appear on screen!
 {temple_of_governors_pantheon_egyptian_desc_short}
 WARNING! This text should never appear on screen!
 
-{temple_of_governors_pantheon_greek}	Pentheion
+{temple_of_governors_pantheon_greek}	Pantheion
 
 {temple_of_governors_pantheon_greek_desc}
 This Pantheion is for all the Gods, but was originally dedicated to Zeus, the God of the Sky, of Kings and the Fate of Nations. He is the All-seeing, the Lord of everything and a hugely powerful deity. Little escapes the attention of Zeus from his home on Mount Olympus, from the softest whisper to the clamour of battle. There is almost nothing in which he does not have a hand. \n\nReligion acts to make a people feel happy and content to know that the Gods are honoured in such a grand fashion.
@@ -5913,7 +5913,7 @@ WARNING! This text should never appear on screen!
 {temple_of_justice_awesome_temple_egyptian}	Awesome Temple of Set
 
 {temple_of_justice_awesome_temple_egyptian_desc}
-This Awesome Temple is dedicated to Set, the patron God of Lower Egypt. He is noted for his struggles against Osiris and Horus. He is also known as a defender of Egyptians against foreigners, and for keeping the desert at bay. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion..
+This Awesome Temple is dedicated to Set, the patron God of Lower Egypt. He is noted for his struggles against Osiris and Horus. He is also known as a defender of Egyptians against foreigners, and for keeping the desert at bay. \n\nReligion also makes a people feel happy and content to know that the Gods are honoured in such a grand fashion.
 
 {temple_of_justice_awesome_temple_egyptian_desc_short}
 This Awesome Temple is dedicated to Set, the patron God of Lower Egypt. He is noted for his struggles against Osiris and Horus.
@@ -6701,10 +6701,10 @@ WARNING! This text should never appear on screen!
 {temple_of_one_god_awesome_temple_parthia}	Awesome Temple of Zoroastra
 
 {temple_of_one_god_awesome_temple_parthia_desc}
-This Large Temple is dedicated to Zoroastra, the founder and creator of the Avesta. A sacred fire is kept burning at all times within the temple. Zoroastra teaches that Ozmud, the creator and angel of good will triumph over Ahriman, the angel of evil, and that a man's fate depends on the good and evil in his life.\n\nReligion also makes a people feel happy and content to know that God is honoured in such a grand fashion.\n\n The Awesome Temple can be improved as the settlement grows in size and importance.
+This Awesome Temple is dedicated to Zoroastra, the founder and creator of the Avesta. A sacred fire is kept burning at all times within the temple. Zoroastra teaches that Ozmud, the creator and angel of good will triumph over Ahriman, the angel of evil, and that a man's fate depends on the good and evil in his life.\n\nReligion also makes a people feel happy and content to know that God is honoured in such a grand fashion.\n\n The Awesome Temple can be improved as the settlement grows in size and importance.
 
 {temple_of_one_god_awesome_temple_parthia_desc_short}
-This Large Temple is dedicated to Zoroastra, the founder and creator of the Avesta. A sacred fire is kept burning at all times within the temple.
+This Awesome Temple is dedicated to Zoroastra, the founder and creator of the Avesta. A sacred fire is kept burning at all times within the temple.
 
 {temple_of_one_god_awesome_temple_egyptian_desc}
 WARNING! This text should never appear on screen!
