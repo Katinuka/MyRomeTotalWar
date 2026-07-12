@@ -452,7 +452,7 @@ building barracks
                 royal_barracks
             }
         }
-        royal_barracks requires factions { carthage, seleucid, roman, } 
+        royal_barracks requires factions { carthage, greek_cities, seleucid, roman, } 
         {
             capability
             {
@@ -499,7 +499,7 @@ building barracks
                 recruit "greek hoplite elite"  0  requires factions { greek_cities, } 
                 recruit "greek royal pikemen"  0  requires factions { macedon, } 
                 recruit "greek silver shield pikemen"  0  requires factions { seleucid, } 
-                recruit "greek hoplite spartan"  0  requires factions { greek_cities, }  and hidden_resource sparta
+                recruit "greek hoplite spartan"  0  requires factions { greek_cities, }  ;and hidden_resource sparta
                 recruit "greek bastarnae"  0  requires factions { thrace, } 
                 recruit "greek argyraspid"  0  requires factions { seleucid, } 
                 recruit "roman city militia"  0  requires factions { roman, } 
