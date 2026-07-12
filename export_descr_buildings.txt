@@ -452,7 +452,7 @@ building barracks
                 royal_barracks
             }
         }
-        royal_barracks requires factions { seleucid, roman, } 
+        royal_barracks requires factions { carthage, seleucid, roman, } 
         {
             capability
             {
@@ -479,6 +479,7 @@ building barracks
                 recruit "numidian desert warriors"  1  requires factions { numidia, } 
                 recruit "carthaginian medium infantry"  0  requires factions { carthage, } 
                 recruit "carthaginian heavy infantry"  0  requires factions { carthage, } 
+				recruit "carthaginian sacred band infantry"  0  requires factions { carthage, } 
                 recruit "numidian legionaries"  0  requires factions { numidia, } 
                 recruit "east hillmen"  0  requires factions { eastern, } 
                 recruit "east infantry"  0  requires factions { eastern, } 
