@@ -44,17 +44,13 @@ building core_building
                 recruit "barb peasant gaul"  0  requires factions { gauls, } 
                 recruit "barb peasant german"  0  requires factions { germans, } 
                 recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                agent diplomat  0  requires factions { barbarian, } 
                 recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                agent diplomat  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, } 
-                agent diplomat  0  requires factions { eastern, } 
+                recruit "east peasant"  0  requires factions { eastern, }  
                 recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                agent diplomat  0  requires factions { egyptian, } 
                 recruit "greek peasant"  0  requires factions { greek, } 
-                agent diplomat  0  requires factions { greek, } 
                 recruit "roman peasant"  0  requires factions { roman, } 
-                agent diplomat  0  requires factions { roman, } 
+				
+				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
             }
             construction  2 
             cost  800 
@@ -74,17 +70,13 @@ building core_building
                 recruit "barb peasant gaul"  0  requires factions { gauls, } 
                 recruit "barb peasant german"  0  requires factions { germans, } 
                 recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                agent diplomat  0  requires factions { barbarian, } 
                 recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                agent diplomat  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, } 
-                agent diplomat  0  requires factions { eastern, } 
+                recruit "east peasant"  0  requires factions { eastern, }  
                 recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                agent diplomat  0  requires factions { egyptian, } 
                 recruit "greek peasant"  0  requires factions { greek, } 
-                agent diplomat  0  requires factions { greek, } 
                 recruit "roman peasant"  0  requires factions { roman, } 
-                agent diplomat  0  requires factions { roman, } 
+				
+				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
                 upgrade_bodyguard 1 requires factions { barbarian, }
             }
             construction  3 
@@ -105,17 +97,13 @@ building core_building
                 recruit "barb peasant gaul"  0  requires factions { gauls, } 
                 recruit "barb peasant german"  0  requires factions { germans, } 
                 recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                agent diplomat  0  requires factions { barbarian, } 
                 recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                agent diplomat  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, } 
-                agent diplomat  0  requires factions { eastern, } 
+                recruit "east peasant"  0  requires factions { eastern, }  
                 recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                agent diplomat  0  requires factions { egyptian, } 
                 recruit "greek peasant"  0  requires factions { greek, } 
-                agent diplomat  0  requires factions { greek, } 
                 recruit "roman peasant"  0  requires factions { roman, } 
-                agent diplomat  0  requires factions { roman, } 
+				
+				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
                 upgrade_bodyguard 1 requires factions { barbarian, }
             }
             construction  4 
@@ -136,17 +124,13 @@ building core_building
                 recruit "barb peasant gaul"  0  requires factions { gauls, } 
                 recruit "barb peasant german"  0  requires factions { germans, } 
                 recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                agent diplomat  0  requires factions { barbarian, } 
                 recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                agent diplomat  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, } 
-                agent diplomat  0  requires factions { eastern, } 
+                recruit "east peasant"  0  requires factions { eastern, }  
                 recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                agent diplomat  0  requires factions { egyptian, } 
                 recruit "greek peasant"  0  requires factions { greek, } 
-                agent diplomat  0  requires factions { greek, } 
                 recruit "roman peasant"  0  requires factions { roman, } 
-                agent diplomat  0  requires factions { roman, } 
+				
+				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
                 recruit "roman praetorian cohort i"  0  requires factions { roman, }  and marian_reforms 
                 upgrade_bodyguard 1
             }
