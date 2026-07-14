@@ -64,17 +64,17 @@ building core_building
         {
             capability
             {
-                recruit "carthaginian peasant"  0  requires factions { spain, } 
-                recruit "barb peasant briton"  0  requires factions { britons, } 
-                recruit "barb peasant dacian"  0  requires factions { dacia, } 
-                recruit "barb peasant gaul"  0  requires factions { gauls, } 
-                recruit "barb peasant german"  0  requires factions { germans, } 
-                recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, }  
-                recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                recruit "greek peasant"  0  requires factions { greek, } 
-                recruit "roman peasant"  0  requires factions { roman, } 
+                recruit "carthaginian peasant"  1  requires factions { spain, } 
+                recruit "barb peasant briton"  1  requires factions { britons, } 
+                recruit "barb peasant dacian"  1  requires factions { dacia, } 
+                recruit "barb peasant gaul"  1  requires factions { gauls, } 
+                recruit "barb peasant german"  1  requires factions { germans, } 
+                recruit "barb peasant scythian"  1  requires factions { scythia, } 
+                recruit "carthaginian peasant"  1  requires factions { carthaginian, } 
+                recruit "east peasant"  1  requires factions { eastern, }  
+                recruit "egyptian peasant"  1  requires factions { egyptian, } 
+                recruit "greek peasant"  1  requires factions { greek, } 
+                recruit "roman peasant"  1  requires factions { roman, } 
 				
 				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
                 upgrade_bodyguard 1 requires factions { barbarian, }
@@ -91,17 +91,17 @@ building core_building
         {
             capability
             {
-                recruit "carthaginian peasant"  0  requires factions { spain, } 
-                recruit "barb peasant briton"  0  requires factions { britons, } 
-                recruit "barb peasant dacian"  0  requires factions { dacia, } 
-                recruit "barb peasant gaul"  0  requires factions { gauls, } 
-                recruit "barb peasant german"  0  requires factions { germans, } 
-                recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, }  
-                recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                recruit "greek peasant"  0  requires factions { greek, } 
-                recruit "roman peasant"  0  requires factions { roman, } 
+                recruit "carthaginian peasant"  2  requires factions { spain, } 
+                recruit "barb peasant briton"  2  requires factions { britons, } 
+                recruit "barb peasant dacian"  2  requires factions { dacia, } 
+                recruit "barb peasant gaul"  2  requires factions { gauls, } 
+                recruit "barb peasant german"  2  requires factions { germans, } 
+                recruit "barb peasant scythian"  2  requires factions { scythia, } 
+                recruit "carthaginian peasant"  2  requires factions { carthaginian, } 
+                recruit "east peasant"  2  requires factions { eastern, }  
+                recruit "egyptian peasant"  2  requires factions { egyptian, } 
+                recruit "greek peasant"  2  requires factions { greek, } 
+                recruit "roman peasant"  2  requires factions { roman, } 
 				
 				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
                 upgrade_bodyguard 1 requires factions { barbarian, }
@@ -118,17 +118,17 @@ building core_building
         {
             capability
             {
-                recruit "carthaginian peasant"  0  requires factions { spain, } 
-                recruit "barb peasant briton"  0  requires factions { britons, } 
-                recruit "barb peasant dacian"  0  requires factions { dacia, } 
-                recruit "barb peasant gaul"  0  requires factions { gauls, } 
-                recruit "barb peasant german"  0  requires factions { germans, } 
-                recruit "barb peasant scythian"  0  requires factions { scythia, } 
-                recruit "carthaginian peasant"  0  requires factions { carthaginian, } 
-                recruit "east peasant"  0  requires factions { eastern, }  
-                recruit "egyptian peasant"  0  requires factions { egyptian, } 
-                recruit "greek peasant"  0  requires factions { greek, } 
-                recruit "roman peasant"  0  requires factions { roman, } 
+                recruit "carthaginian peasant"  3  requires factions { spain, } 
+                recruit "barb peasant briton"  3  requires factions { britons, } 
+                recruit "barb peasant dacian"  3  requires factions { dacia, } 
+                recruit "barb peasant gaul"  3  requires factions { gauls, } 
+                recruit "barb peasant german"  3  requires factions { germans, } 
+                recruit "barb peasant scythian"  3  requires factions { scythia, } 
+                recruit "carthaginian peasant"  3  requires factions { carthaginian, } 
+                recruit "east peasant"  3  requires factions { eastern, }  
+                recruit "egyptian peasant"  3  requires factions { egyptian, } 
+                recruit "greek peasant"  3  requires factions { greek, } 
+                recruit "roman peasant"  3  requires factions { roman, } 
 				
 				agent diplomat  0  requires factions { barbarian, carthaginian, eastern, egyptian, greek, roman, } 
                 recruit "roman praetorian cohort i"  0  requires factions { roman, }  and marian_reforms 
