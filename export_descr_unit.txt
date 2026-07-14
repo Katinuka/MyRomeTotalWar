@@ -1100,7 +1100,7 @@ stat_mental      12, normal, highly_trained
 stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        2, 480, 90, 50, 80, 480
+stat_cost        2, 480, 180, 50, 80, 480
 ownership        britons
  
  
@@ -1125,7 +1125,7 @@ stat_mental      12, normal, untrained
 stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        2, 480, 90, 50, 80, 480
+stat_cost        2, 480, 180, 50, 80, 480
 ownership        gauls
  
  
@@ -1150,7 +1150,7 @@ stat_mental      12, normal, untrained
 stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        2, 480, 90, 50, 80, 480
+stat_cost        2, 480, 180, 50, 80, 480
 ownership        slave
  
  
