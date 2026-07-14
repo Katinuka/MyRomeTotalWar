@@ -922,10 +922,10 @@ WARNING! This text should never appear on screen!
 WARNING! This text should never appear on screen!
 
 {city_plumbing_greek_desc}
-WARNING! This text should never appear on screen!
+Adequate supplies of fresh water ensure that the people can be clean, their clothing washed, and their houses kept clean. Simple facilities like this can improve health hugely.\n\nThe more 'enterprising' citizens are not above making their own 'modifications' to the system, and piping extra water into their homes!
 
 {city_plumbing_greek_desc_short}
-WARNING! This text should never appear on screen!
+Lead pipes run fresh water directly into houses, and are some of the most sophisticated engineering works of the Roman world.
 
 {city_plumbing_roman_desc}
 Adequate supplies of fresh water ensure that the people can be clean, their clothing washed, and their houses kept clean. Simple facilities like this can improve health hugely.\n\nThe more 'enterprising' citizens are not above making their own 'modifications' to the system, and piping extra water into their homes!
