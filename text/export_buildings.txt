@@ -775,10 +775,10 @@ Sewers efficiently wash away the filth and rubbish from a settlement, making the
 Sewers efficiently wash away the filth and rubbish from a settlement, making the place cleaner and therefore healthier for the people.
 
 {sewers_eastern_desc}
-WARNING! This text should never appear on screen!
+Sewers efficiently wash away the filth and rubbish from a settlement, making the place cleaner. Indeed, one measure of civilization might be the distance between one's nose and the final resting place of one's bowel movements! Sewers therefore help civilization's forward march.
 
 {sewers_eastern_desc_short}
-WARNING! This text should never appear on screen!
+Sewers efficiently wash away the filth and rubbish from a settlement, making the place cleaner and therefore healthier for the people.
 
 {sewers_egyptian_desc}
 Sewers efficiently wash away the filth and rubbish from a settlement, making the place cleaner. Indeed, one measure of civilization might be the distance between one's nose and the final resting place of one's bowel movements! Sewers therefore help civilization's forward march.
@@ -820,10 +820,10 @@ Public baths play an important part in the social life of the town; they are a p
 Public baths play an important part in the social life of the town; they are a place to meet as much as somewhere to get clean.
 
 {baths_eastern_desc}
-WARNING! This text should never appear on screen!
+Public baths play an important part in the social life of the town; they are a place to meet as much as somewhere to get clean. Baths are often among the most magnificent of public buildings, and include cunning heating systems and many slaves to look after the needs of the citizens. 
 
 {baths_eastern_desc_short}
-WARNING! This text should never appear on screen!
+Public baths play an important part in the social life of the town; they are a place to meet as much as somewhere to get clean.
 
 {baths_egyptian_desc}
 Public baths play an important part in the social life of the town; they are a place to meet as much as somewhere to get clean. Baths are often among the most magnificent of public buildings, and include cunning heating systems and many slaves to look after the needs of the citizens. 
@@ -8106,8 +8106,6 @@ Elite Cavalry Stables train some of the finest mounted soldiers available to any
 
 {hippodrome_eastern_desc_short}
 Elite Cavalry Stables train some of the finest mounted soldiers available to any army. They may also include facilities for training other war beasts, such as elephants. This building cannot be upgraded. 
-
-{hippodrome_parthia}	Elite Cavalry Stables
 
 {hippodrome_parthia_desc}
 Elite Cavalry Stables train some of the finest mounted soldiers available to any army. Horses and men are looked after in considerable luxury - at least compared to where infantry are expected to live! Farriers and specialised armourers are also found here, allowing many types of cavalry to be trained. \n\nThese stables may also include facilities for training and housing other war beasts, such as elephants. This alone can make the building a valuable part of the military infrastructure.\n\nThis building can be upgraded further when the settlement grows.

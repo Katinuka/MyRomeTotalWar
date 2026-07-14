@@ -1240,7 +1240,7 @@ building health
 {
     levels sewers baths aqueduct city_plumbing 
     {
-        sewers requires factions { carthaginian, egyptian, greek, roman, }  and building_present_min_level market trader
+        sewers requires factions { carthaginian, eastern, egyptian, greek, roman, }  and building_present_min_level market trader
         {
             capability
             {
@@ -1254,7 +1254,7 @@ building health
                 baths
             }
         }
-        baths requires factions { carthaginian, egyptian, greek, roman, }  and building_present_min_level market market
+        baths requires factions { carthaginian, eastern, egyptian, greek, roman, }  and building_present_min_level market market
         {
             capability
             {
