@@ -2583,7 +2583,7 @@ building temple_of_horse
                 temple_of_horse_awesome_temple
             }
         }
-        temple_of_horse_awesome_temple 
+        temple_of_horse_awesome_temple requires factions { roman, }
         {
             capability
             {
@@ -2598,7 +2598,7 @@ building temple_of_horse
                 temple_of_horse_pantheon
             }
         }
-        temple_of_horse_pantheon 
+        temple_of_horse_pantheon requires factions { roman, }
         {
             capability
             {
