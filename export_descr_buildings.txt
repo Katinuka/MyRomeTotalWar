@@ -468,6 +468,7 @@ building barracks
 				recruit "warband woad briton"  0  requires factions { britons, } 
 				recruit "barb druids briton"  0  requires factions { britons, } 
 				recruit "barb druids gaul"  0  requires factions { gauls, } 
+				recruit "barb night raiders german"  0  requires factions { germans, } 
 			}
             construction  6 
             cost  4800 
@@ -559,6 +560,7 @@ building barracks
 				recruit "warband woad briton"  1  requires factions { britons, } 
 				recruit "barb druids briton"  1  requires factions { britons, } 
 				recruit "barb druids gaul"  1  requires factions { gauls, } 
+				recruit "barb night raiders german"  1  requires factions { germans, } 
 				
 				recruit "spanish bull warriors"  0  requires factions { spain, } 
 				recruit "barb berserker german"  0  requires factions { germans, } 
