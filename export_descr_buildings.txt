@@ -1861,7 +1861,7 @@ building temple_of_battle
         {
             capability
             {
-                recruit "barb naked fanatics dacian"  1  requires factions { dacia, } 
+                recruit "barb naked fanatics dacian"  2  requires factions { dacia, } 
                 happiness_bonus bonus 4
                 recruits_morale_bonus bonus 3
             }
@@ -1877,7 +1877,7 @@ building temple_of_battle
         {
             capability
             {
-                recruit "barb naked fanatics dacian"  1  requires factions { dacia, } 
+                recruit "barb naked fanatics dacian"  3  requires factions { dacia, } 
                 happiness_bonus bonus 7
                 recruits_morale_bonus bonus 4
             }
@@ -1950,7 +1950,7 @@ building temple_of_battleforge
         {
             capability
             {
-                recruit "barb naked fanatics gauls"  1  requires factions { gauls, } 
+                recruit "barb naked fanatics gauls"  2  requires factions { gauls, } 
                 happiness_bonus bonus 4
                 weapon_simple bonus 1
                 recruits_exp_bonus bonus 2
@@ -1968,7 +1968,7 @@ building temple_of_battleforge
         {
             capability
             {
-                recruit "barb naked fanatics gauls"  1  requires factions { gauls, } 
+                recruit "barb naked fanatics gauls"  3  requires factions { gauls, } 
                 happiness_bonus bonus 5
 				population_health_bonus bonus 2
                 weapon_simple bonus 1
@@ -2113,7 +2113,7 @@ building temple_of_fertility
         {
             capability
             {
-                recruit "barb screeching women german"  0  requires factions { germans, } 
+                recruit "barb screeching women german"  1  requires factions { germans, } 
                 happiness_bonus bonus 3
                 population_growth_bonus bonus 3
             }
@@ -2129,7 +2129,7 @@ building temple_of_fertility
         {
             capability
             {
-                recruit "barb screeching women german"  0  requires factions { germans, } 
+                recruit "barb screeching women german"  2  requires factions { germans, } 
                 happiness_bonus bonus 4
                 population_growth_bonus bonus 4
             }
@@ -2145,7 +2145,7 @@ building temple_of_fertility
         {
             capability
             {
-                recruit "barb screeching women german"  0  requires factions { germans, } 
+                recruit "barb screeching women german"  3  requires factions { germans, } 
                 happiness_bonus bonus 7
                 population_growth_bonus bonus 5
                 law_bonus bonus 2
@@ -2475,7 +2475,7 @@ building temple_of_healing
         {
             capability
             {
-                recruit "barb druids briton"  0  requires factions { britons, } 
+                recruit "barb druids briton"  1  requires factions { britons, } 
                 happiness_bonus bonus 4
                 population_health_bonus bonus 4
             }
@@ -2491,7 +2491,7 @@ building temple_of_healing
         {
             capability
             {
-                recruit "barb druids briton"  0  requires factions { britons, } 
+                recruit "barb druids briton"  2  requires factions { britons, } 
                 happiness_bonus bonus 5
                 population_health_bonus bonus 5
                 trade_base_income_bonus bonus  2
@@ -2717,7 +2717,7 @@ building temple_of_justice
             capability
             {
                 recruit "barb druids gaul"  0  requires factions { gauls, } 
-                recruit "barb naked fanatics spain"  0  requires factions { spain, } 
+                recruit "barb naked fanatics spain"  1  requires factions { spain, } 
                 recruit "spanish bull warriors"  0  requires factions { spain, } 
                 happiness_bonus bonus 3
                 law_bonus bonus 3
@@ -2734,9 +2734,9 @@ building temple_of_justice
         {
             capability
             {
-                recruit "barb druids gaul"  0  requires factions { gauls, } 
-                recruit "barb naked fanatics spain"  0  requires factions { spain, } 
-                recruit "spanish bull warriors"  0  requires factions { spain, } 
+                recruit "barb druids gaul"  1  requires factions { gauls, } 
+                recruit "barb naked fanatics spain"  2  requires factions { spain, } 
+                recruit "spanish bull warriors"  1  requires factions { spain, } 
                 recruit "carthaginian sacred band infantry"  0  requires factions { carthage, } 
                 happiness_bonus bonus 4
                 law_bonus bonus 4
@@ -2753,10 +2753,10 @@ building temple_of_justice
         {
             capability
             {
-                recruit "barb druids gaul"  0  requires factions { gauls, } 
-                recruit "barb naked fanatics spain"  0  requires factions { spain, } 
-                recruit "spanish bull warriors"  0  requires factions { spain, } 
-                recruit "carthaginian sacred band infantry"  0  requires factions { carthage, } 
+                recruit "barb druids gaul"  2  requires factions { gauls, } 
+                recruit "barb naked fanatics spain"  3  requires factions { spain, } 
+                recruit "spanish bull warriors"  2  requires factions { spain, } 
+                recruit "carthaginian sacred band infantry"  1  requires factions { carthage, } 
                 happiness_bonus bonus 7
                 law_bonus bonus 5
                 population_growth_bonus bonus 2
@@ -2843,7 +2843,7 @@ building temple_of_law
         {
             capability
             {
-                recruit "roman arcani"  0  requires factions { romans_scipii, } 
+                recruit "roman arcani"  1  requires factions { romans_scipii, } 
                 happiness_bonus bonus 5
                 law_bonus bonus 5
                 weapon_simple bonus 1
@@ -2931,7 +2931,7 @@ building temple_of_leadership
         {
             capability
             {
-                recruit "roman arcani"  0  requires factions { romans_julii, } 
+                recruit "roman arcani"  1  requires factions { romans_julii, } 
                 happiness_bonus bonus 7
                 law_bonus bonus 5
                 population_growth_bonus bonus 2
@@ -2987,7 +2987,7 @@ building temple_of_love
         {
             capability
             {
-                recruit "barb head hunting maidens scythian"  0  requires factions { scythia, } 
+                recruit "barb head hunting maidens scythian"  1  requires factions { scythia, } 
                 recruit "barb scythian noblewomen scythian"  0  requires factions {  scythia, } 
                 happiness_bonus bonus 3
                 population_growth_bonus bonus 3
@@ -3004,8 +3004,8 @@ building temple_of_love
         {
             capability
             {
-                recruit "barb head hunting maidens scythian"  0  requires factions { scythia, } 
-                recruit "barb scythian noblewomen scythian"  0  requires factions {  scythia, } 
+                recruit "barb head hunting maidens scythian"  2  requires factions { scythia, } 
+                recruit "barb scythian noblewomen scythian"  1  requires factions {  scythia, } 
                 happiness_bonus bonus 4
                 population_growth_bonus bonus 4
             }
@@ -3021,8 +3021,8 @@ building temple_of_love
         {
             capability
             {
-                recruit "barb head hunting maidens scythian"  0  requires factions { scythia, } 
-                recruit "barb scythian noblewomen scythian"  0  requires factions {  scythia, } 
+                recruit "barb head hunting maidens scythian"  3  requires factions { scythia, } 
+                recruit "barb scythian noblewomen scythian"  2  requires factions {  scythia, } 
                 happiness_bonus bonus 5
                 population_growth_bonus bonus 5
                 law_bonus bonus 2
@@ -3107,7 +3107,7 @@ building temple_of_naval
             capability
             {
                 recruit "naval deceres"  0  requires factions { roman, } 
-                recruit "naval corvus quinquireme"  0  requires factions { roman, } 
+                recruit "naval corvus quinquireme"  1  requires factions { roman, } 
                 happiness_bonus bonus 5
                 law_bonus bonus 2
                 weapon_simple bonus 1
@@ -3351,8 +3351,8 @@ building temple_of_victory
         {
             capability
             {
-                recruit "warband woad briton"  1  requires factions { britons, } 
-                recruit "warband hurler briton"  1  requires factions { britons, } 
+                recruit "warband woad briton"  2  requires factions { britons, } 
+                recruit "warband hurler briton"  2  requires factions { britons, } 
                 happiness_bonus bonus 4
                 recruits_exp_bonus bonus 3
             }
@@ -3368,8 +3368,8 @@ building temple_of_victory
         {
             capability
             {
-                recruit "warband woad briton"  1  requires factions { britons, } 
-                recruit "warband hurler briton"  1  requires factions { britons, } 
+                recruit "warband woad briton"  3  requires factions { britons, } 
+                recruit "warband hurler briton"  3  requires factions { britons, } 
                 happiness_bonus bonus 5
                 recruits_exp_bonus 3
                 population_growth_bonus bonus 2
@@ -3441,7 +3441,7 @@ building temple_of_violence
         {
             capability
             {
-                recruit "barb berserker german"  0  requires factions { germans, } 
+                recruit "barb berserker german"  1  requires factions { germans, } 
                 recruit "roman arcani"  0  requires factions { romans_brutii, } 
                 happiness_bonus bonus 4
                 recruits_exp_bonus bonus 3
@@ -3458,8 +3458,8 @@ building temple_of_violence
         {
             capability
             {
-                recruit "barb berserker german"  0  requires factions { germans, } 
-                recruit "roman arcani"  0  requires factions { romans_brutii, } 
+                recruit "barb berserker german"  2  requires factions { germans, } 
+                recruit "roman arcani"  1  requires factions { romans_brutii, } 
                 happiness_bonus bonus 5
                 recruits_exp_bonus bonus 3
                 recruits_morale_bonus bonus 1
@@ -3517,7 +3517,7 @@ building temple_of_viking
         {
             capability
             {
-                recruit "barb naked fanatics german"  0  requires factions { germans, } 
+                recruit "barb naked fanatics german"  1  requires factions { germans, } 
                 recruit "barb gothic cavalry german"  0  requires factions { germans, } 
                 happiness_bonus bonus 3
                 recruits_exp_bonus bonus 3
