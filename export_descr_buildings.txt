@@ -1522,7 +1522,6 @@ building amphitheatres
         {
             capability
             {
-                recruit "roman velite gladiator"  0  requires factions { romans_brutii, } 
                 stage_games 1 requires factions { roman,}
                 happiness_bonus bonus 1
             }
@@ -1540,7 +1539,8 @@ building amphitheatres
             {
                 recruit "roman velite gladiator"  0  requires factions { romans_brutii, } 
                 recruit "roman samnite gladiator"  0  requires factions { romans_senate, romans_julii, } 
-                stage_games 2 requires factions { roman,}
+				recruit "roman mirmillo gladiator"  0  requires factions { romans_scipii, }
+				stage_games 2 requires factions { roman,}
                 happiness_bonus bonus 2
             }
             construction  5 
