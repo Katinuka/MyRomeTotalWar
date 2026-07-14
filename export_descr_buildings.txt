@@ -1144,6 +1144,7 @@ building smith
                 recruit "egyptian chariot"  0  requires factions { egyptian, } 
                 recruit "rebel amazon chariots"  0  requires factions { slave, } 
                 recruit "greek chariot scythed"  0  requires factions { seleucid, } 
+				
                 weapon_simple 1
                 weapon_bladed 1
             }
@@ -1159,14 +1160,16 @@ building smith
         {
             capability
             {
-                recruit "barb chariot heavy briton"  0  requires factions { britons, } 
-                recruit "barb chariot light briton"  0  requires factions { britons, } 
-                recruit "east scythed chariot"  0  requires factions { pontus, } 
-                recruit "east chariot archer"  0  requires factions { pontus, } 
-                recruit "egyptian chariot"  0  requires factions { egyptian, } 
-                recruit "egyptian chariot archer"  0  requires factions { egyptian, } 
-                recruit "rebel amazon chariots"  2  requires factions { slave, } 
-                recruit "greek chariot scythed"  0  requires factions { seleucid, } 
+                recruit "barb chariot light briton"  1  requires factions { britons, } 
+                recruit "east scythed chariot"  1  requires factions { pontus, } 
+                recruit "egyptian chariot"  1  requires factions { egyptian, } 
+                recruit "rebel amazon chariots"  1  requires factions { slave, } 
+                recruit "greek chariot scythed"  1  requires factions { seleucid, } 
+				
+				recruit "barb chariot heavy briton"  0  requires factions { britons, } 
+				recruit "east chariot archer"  0  requires factions { pontus, } 
+				recruit "egyptian chariot archer"  0  requires factions { egyptian, } 
+				
                 weapon_simple 1
                 weapon_bladed 1
                 weapon_missile 1
@@ -1184,14 +1187,16 @@ building smith
         {
             capability
             {
-                recruit "barb chariot heavy briton"  0  requires factions { britons, } 
-                recruit "barb chariot light briton"  0  requires factions { britons, } 
-                recruit "east scythed chariot"  0  requires factions { pontus, } 
-                recruit "east chariot archer"  0  requires factions { pontus, } 
-                recruit "egyptian chariot"  0  requires factions { egyptian, } 
-                recruit "egyptian chariot archer"  0  requires factions { egyptian, } 
+                recruit "barb chariot light briton"  2  requires factions { britons, } 
+                recruit "east scythed chariot"  2  requires factions { pontus, } 
+                recruit "egyptian chariot"  2  requires factions { egyptian, } 
                 recruit "rebel amazon chariots"  2  requires factions { slave, } 
-                recruit "greek chariot scythed"  0  requires factions { seleucid, } 
+                recruit "greek chariot scythed"  2  requires factions { seleucid, } 
+				
+				recruit "barb chariot heavy briton"  1  requires factions { britons, } 
+				recruit "east chariot archer"  1  requires factions { pontus, } 
+				recruit "egyptian chariot archer"  1  requires factions { egyptian, } 
+				
                 weapon_simple 2
                 weapon_bladed 2
                 weapon_missile 2
