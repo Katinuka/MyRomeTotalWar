@@ -1868,7 +1868,7 @@ stat_mental      8, normal, untrained
 stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        2, 660, 130, 70, 100, 660
+stat_cost        1, 660, 130, 70, 100, 660
 ownership        scythia
  
  
