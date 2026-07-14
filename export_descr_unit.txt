@@ -1121,7 +1121,7 @@ stat_pri_armour  7, 5, 2, metal
 stat_sec_armour  0, 0, flesh
 stat_heat        4
 stat_ground      2, -2, 3, 2
-stat_mental      12, normal, untrained
+stat_mental      12, normal, highly_trained
 stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
@@ -1146,7 +1146,7 @@ stat_pri_armour  7, 5, 2, metal
 stat_sec_armour  0, 0, flesh
 stat_heat        4
 stat_ground      2, -2, 3, 2
-stat_mental      12, normal, untrained
+stat_mental      12, normal, highly_trained
 stat_charge_dist 40
 stat_fire_delay  0
 stat_food        60, 300
