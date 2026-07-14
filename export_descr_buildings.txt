@@ -1327,7 +1327,7 @@ building health
                 city_plumbing
             }
         }
-        city_plumbing requires factions { roman, }  and building_present_min_level market great_forum
+        city_plumbing requires factions { greek, roman, }  and building_present_min_level market great_forum
         {
             capability
             {
