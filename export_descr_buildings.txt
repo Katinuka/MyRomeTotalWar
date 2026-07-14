@@ -458,7 +458,17 @@ building barracks
                 recruit "roman triarii"  0  requires factions { roman, }  and not marian_reforms 
                 recruit "roman legionary cohort ii"  0  requires factions { roman, }  and marian_reforms 
                 recruit "roman praetorian cohort i"  0  requires factions { roman, }  and marian_reforms 
-            }
+            
+				; from temples (for barbarians only):
+				recruit "barb screeching women german"  0  requires factions { germans, } 
+				recruit "barb naked fanatics dacian"  0  requires factions { dacia, } 
+				recruit "barb naked fanatics gauls"  0  requires factions { gauls, } 
+				recruit "barb naked fanatics spain"  0  requires factions { spain, } 
+				recruit "barb naked fanatics german"  0  requires factions { germans, } 
+				recruit "warband woad briton"  0  requires factions { britons, } 
+				recruit "barb druids briton"  0  requires factions { britons, } 
+				recruit "barb druids gaul"  0  requires factions { gauls, } 
+			}
             construction  6 
             cost  4800 
             settlement_min large_city
@@ -539,7 +549,20 @@ building barracks
                 recruit "roman legionary first cohort ii"  0  requires factions { roman, }  and hidden_resource rome and marian_reforms 
                 recruit "roman praetorian cohort urban i"  0  requires factions { roman, }  and marian_reforms 
                 recruit "roman praetorian cohort i"  0  requires factions { roman, }  and marian_reforms
-            }
+            
+				; from temples (for barbarians only):
+				recruit "barb screeching women german"  1  requires factions { germans, } 
+				recruit "barb naked fanatics dacian"  1  requires factions { dacia, } 
+				recruit "barb naked fanatics gauls"  1  requires factions { gauls, } 
+				recruit "barb naked fanatics spain"  1  requires factions { spain, } 
+				recruit "barb naked fanatics german"  1  requires factions { germans, } 
+				recruit "warband woad briton"  1  requires factions { britons, } 
+				recruit "barb druids briton"  1  requires factions { britons, } 
+				recruit "barb druids gaul"  1  requires factions { gauls, } 
+				
+				recruit "spanish bull warriors"  0  requires factions { spain, } 
+				recruit "barb berserker german"  0  requires factions { germans, } 
+			}
             construction  7 
             cost  9600 
             settlement_min huge_city
@@ -706,6 +729,11 @@ building equestrian
                 recruit "roman heavy cavalry"  0  requires factions { roman, }  and marian_reforms 
                 recruit "roman pigs"  0  requires factions { roman, } 
 				
+				; from temples (for barbarians only):
+				recruit "barb head hunting maidens scythian"  0  requires factions { scythia, } 
+				recruit "barb scythian noblewomen scythian"  0  requires factions {  scythia, } 
+				recruit "barb gothic cavalry german"  0  requires factions { germans, }
+				
                 stage_races 1 requires factions { roman, }
             }
             construction  6 
@@ -785,6 +813,11 @@ building equestrian
                 recruit "greek elephant cataphract"  0  requires factions { seleucid, }  and resource elephants
                 recruit "roman praetorian cavalry"  0  requires factions { roman, }  and marian_reforms
                 
+				; from temples (for barbarians only):
+				recruit "barb head hunting maidens scythian"  1  requires factions { scythia, } 
+				recruit "barb scythian noblewomen scythian"  1  requires factions {  scythia, } 
+				recruit "barb gothic cavalry german"  1  requires factions { germans, }
+				
 				stage_races 2 requires factions { roman, }
             }
             construction  7 
@@ -927,6 +960,9 @@ building missiles
                 recruit "greek onager"  0  requires factions { greek, } 
                 recruit "roman scorpion"  0  requires factions { roman, } 
                 recruit "roman onager"  0  requires factions { roman, } 
+				
+				; from temples (for barbarians only):
+				recruit "warband hurler briton"  0  requires factions { britons, } 
             }
             construction  6 
             cost  4800 
@@ -992,6 +1028,9 @@ building missiles
                 recruit "greek heavy onager"  0  requires factions { macedon, greek_cities, } 
                 recruit "roman heavy onager"  0  requires factions { roman, } 
                 recruit "roman repeating ballista"  0  requires factions { roman, }  
+				
+				; from temples (for barbarians only):
+				recruit "warband hurler briton"  1  requires factions { britons, } 
             }
             construction  7 
             cost  9600 
