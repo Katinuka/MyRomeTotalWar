@@ -1218,12 +1218,9 @@ building port_buildings
             capability
             {
                 recruit "naval boats"  0  requires factions { barbarian, } 
-                recruit "naval biremes"  0  requires factions { carthaginian, } 
-                recruit "naval biremes"  0  requires factions { eastern, } 
-                recruit "naval biremes"  0  requires factions { egyptian, } 
-                recruit "naval biremes"  0  requires factions { greek, } 
-                recruit "naval biremes"  0  requires factions { roman, } 
-                trade_fleet 1 ;trade_base_income_bonus bonus 1
+                recruit "naval biremes"  0  requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+                
+				trade_fleet 1 ;trade_base_income_bonus bonus 1
             }
             construction  2 
             cost  800 
@@ -1237,19 +1234,13 @@ building port_buildings
         {
             capability
             {
-                recruit "naval boats"  0  requires factions { barbarian, } 
-                recruit "naval large boats"  0  requires factions { barbarian, } 
-                recruit "naval biremes"  0  requires factions { carthaginian, } 
-                recruit "naval triremes"  0  requires factions { carthaginian, } 
-                recruit "naval biremes"  0  requires factions { eastern, } 
-                recruit "naval triremes"  0  requires factions { eastern, } 
-                recruit "naval biremes"  0  requires factions { egyptian, } 
-                recruit "naval triremes"  0  requires factions { egyptian, } 
-                recruit "naval biremes"  0  requires factions { greek, } 
-                recruit "naval triremes"  0  requires factions { greek, } 
-                recruit "naval biremes"  0  requires factions { roman, } 
-                recruit "naval triremes"  0  requires factions { roman, } 
-                trade_fleet 2 ;trade_base_income_bonus bonus 2
+                recruit "naval boats"  1  requires factions { barbarian, } 
+                recruit "naval biremes"  1  requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+				
+				recruit "naval large boats"  0  requires factions { barbarian, } 
+                recruit "naval triremes"  0  requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+                
+				trade_fleet 2 ;trade_base_income_bonus bonus 2
             }
             construction  3 
             cost  1600 
@@ -1263,24 +1254,15 @@ building port_buildings
         {
             capability
             {
-                recruit "naval boats"  0  requires factions { barbarian, } 
-                recruit "naval large boats"  0  requires factions { barbarian, } 
-                recruit "naval biremes"  0  requires factions { carthaginian, } 
-                recruit "naval triremes"  0  requires factions { carthaginian, } 
-                recruit "naval quinquiremes"  0  requires factions { carthaginian, } 
-                recruit "naval biremes"  0  requires factions { eastern, } 
-                recruit "naval triremes"  0  requires factions { eastern, } 
-                recruit "naval quinquiremes"  0  requires factions { eastern, } 
-                recruit "naval biremes"  0  requires factions { egyptian, } 
-                recruit "naval triremes"  0  requires factions { egyptian, } 
-                recruit "naval quinquiremes"  0  requires factions { egyptian, } 
-                recruit "naval biremes"  0  requires factions { greek, } 
-                recruit "naval triremes"  0  requires factions { greek, } 
-                recruit "naval quinquiremes"  0  requires factions { greek, } 
-                recruit "naval biremes"  0  requires factions { roman, } 
-                recruit "naval triremes"  0  requires factions { roman, } 
-                recruit "naval quinquiremes"  0  requires factions { roman, } 
-                trade_fleet 3 ;trade_base_income_bonus bonus 2
+                recruit "naval boats"  2  requires factions { barbarian, } 
+                recruit "naval biremes"  2  requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+				
+                recruit "naval triremes"  1  requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+                recruit "naval large boats"  1  requires factions { barbarian, } 
+				
+                recruit "naval quinquiremes"  0  requires factions { carthaginian, eastern, egyptian, greek, roman, } 
+                
+				trade_fleet 3 ;trade_base_income_bonus bonus 2
             }
             construction  5 
             cost  3200 
