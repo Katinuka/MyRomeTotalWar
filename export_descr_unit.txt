@@ -1850,7 +1850,7 @@ dictionary       scythian_noble_women_scythian      ; Scythian Noble Women
 category         cavalry
 class            missile
 voice_type       Female_1
-soldier          barb_scythian_noblewoman, 18, 0, 1
+soldier          barb_scythian_noblewoman, 27, 0, 1
 mount            light horse
 mount_effect     elephant -8, camel -4
 attributes       sea_faring, hide_forest, cantabrian_circle
