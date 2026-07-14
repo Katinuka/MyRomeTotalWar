@@ -1084,7 +1084,7 @@ dictionary       druids_briton      ; Druids
 category         infantry
 class            light
 voice_type       Light_1
-soldier          barb_druid, 16, 0, 1.2
+soldier          barb_druid, 40, 0, 1.2
 attributes       sea_faring, hide_improved_forest, very_hardy, druid
 formation        1.2, 1.2, 2.4, 2.4, 3, horde
 stat_health      1, 0
@@ -1109,7 +1109,7 @@ dictionary       druids_gaul      ; Druids
 category         infantry
 class            light
 voice_type       Light_1
-soldier          barb_druid, 16, 0, 1.2
+soldier          barb_druid, 40, 0, 1.2
 attributes       sea_faring, hide_improved_forest, very_hardy, druid
 formation        1.2, 1.2, 2.4, 2.4, 3, horde
 stat_health      1, 0
@@ -1134,7 +1134,7 @@ dictionary       druids_slave      ; Druids
 category         infantry
 class            light
 voice_type       Light_1
-soldier          barb_druid, 16, 0, 1.2
+soldier          barb_druid, 40, 0, 1.2
 attributes       sea_faring, hide_improved_forest, very_hardy, druid
 formation        1.2, 1.2, 2.4, 2.4, 3, horde
 stat_health      1, 0
