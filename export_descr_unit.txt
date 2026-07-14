@@ -5314,7 +5314,7 @@ dictionary       roman_arcani      ; Arcani
 category         infantry
 class            heavy
 voice_type       Light_1
-soldier          roman_arcani, 16, 0, 1
+soldier          roman_arcani, 40, 0, 1
 attributes       sea_faring, hide_improved_forest, hide_long_grass, hide_anywhere, very_hardy
 formation        1.2, 1.2, 2.4, 2.4, 3, square
 stat_health      2, 0
@@ -5330,7 +5330,7 @@ stat_mental      10, normal, untrained
 stat_charge_dist 30
 stat_fire_delay  0
 stat_food        60, 300
-stat_cost        2, 900, 160, 90, 140, 900
+stat_cost        2, 900, 210, 90, 140, 900
 ownership        romans_julii,romans_brutii,romans_scipii,romans_senate
  
  
