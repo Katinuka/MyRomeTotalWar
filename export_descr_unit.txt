@@ -5391,7 +5391,7 @@ dictionary       roman_velite_gladiator      ; Velite Gladiators
 category         infantry
 class            light
 voice_type       Heavy_1
-soldier          roman_velite_gladiator, 20, 0, 1
+soldier          roman_velite_gladiator, 40, 0, 1
 attributes       sea_faring, hide_forest, can_sap, very_hardy
 formation        1.2, 1.2, 2.4, 2.4, 2, horde
 stat_health      2, 0
@@ -5416,7 +5416,7 @@ dictionary       roman_samnite_gladiator      ; Samnite Gladiators
 category         infantry
 class            heavy
 voice_type       Heavy_1
-soldier          roman_samnite_gladiator, 20, 0, 1.3
+soldier          roman_samnite_gladiator, 40, 0, 1.3
 attributes       sea_faring, hide_forest, can_sap, very_hardy
 formation        1.2, 1.2, 2.4, 2.4, 2, horde
 stat_health      2, 0
@@ -5441,7 +5441,7 @@ dictionary       roman_mirmillo_gladiator      ; Mirmillo Gladiators
 category         infantry
 class            heavy
 voice_type       Heavy_1
-soldier          roman_mirmillo_gladiator, 20, 0, 1.3
+soldier          roman_mirmillo_gladiator, 40, 0, 1.3
 attributes       sea_faring, hide_forest, can_sap, very_hardy
 formation        1.2, 1.2, 2.4, 2.4, 2, horde
 stat_health      2, 0
